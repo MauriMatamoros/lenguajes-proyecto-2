@@ -29,7 +29,7 @@ for (let i = 0; i < places.length; i++) {
     destinations.push(
       {
         from: places[i],
-        to: [places[i+1], places[i+2], places[i+3], places[i+4], places[i+5]]
+        to: [places[i+1], places[i+2], places[i+3], places[i+4], places[0]]
       }
     );
   }else {
@@ -37,28 +37,28 @@ for (let i = 0; i < places.length; i++) {
       destinations.push(
         {
           from: places[i],
-          to: [places[i+1], places[i+2], places[i+3], places[i+4], places[0]]
+          to: [places[i+1], places[i+2], places[i+3], places[0], places[1]]
         }
       );
     }else if (i === 17) {
       destinations.push(
         {
           from: places[i],
-          to: [places[i+1], places[i+2], places[i+3], places[0], places[1]]
+          to: [places[i+1], places[i+2], places[0], places[1], places[2]]
         }
       );
     }else if (i === 18) {
       destinations.push(
         {
           from: places[i],
-          to: [places[i+1], places[i+2], places[0], places[1], places[2]]
+          to: [places[i+1], places[0], places[1], places[2], places[3]]
         }
       );
     }else if (i === 19) {
       destinations.push(
         {
           from: places[i],
-          to: [places[i+1], places[0], places[1], places[2], places[3]]
+          to: [places[0], places[1], places[2], places[3], places[4]]
         }
       );
     }else{
