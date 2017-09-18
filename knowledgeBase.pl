@@ -1,1000 +1,1000 @@
-flight(berlin,tokyo,7,10,saturday,spirit,1335,1296).
-flight(berlin,tokyo,7,10,tuesday,spirit,879,419).
-flight(chicago,moscow,21,20,sunday,united,1351,563).
-flight(istanbul,roatan,4,2,monday,luxair,1113,1233).
-flight(istanbul,houston,9,16,saturday,avianca,2585,1777).
-flight(rome,amsterdam,18,12,saturday,emirates,2972,662).
-flight(paris,chicago,5,22,thursday,lufthansa,2291,745).
-flight(tegucigalpa,berlin,3,17,monday,taca,1193,529).
-flight(paris,berlin,20,10,wednesday,lufthansa,1433,1651).
-flight(beijing,moscow,9,1,saturday,united,263,397).
-flight(barcelona,houston,14,12,saturday,united,2041,122).
-flight(warsaw,paris,9,12,thursday,taca,2202,579).
-flight(rome,toronto,21,15,friday,emirates,2969,1244).
-flight(london,berlin,20,1,saturday,delta,2025,20).
-flight(warsaw,beijing,9,10,sunday,continental,1476,957).
-flight(madrid,toronto,21,7,saturday,lufthansa,1482,1598).
-flight(roatan,istanbul,18,4,tuesday,spirit,491,1377).
-flight(berlin,beijing,5,3,saturday,lufthansa,2973,1767).
-flight(tokyo,tegucigalpa,4,23,saturday,continental,2707,72).
-flight(beijing,roatan,23,0,thursday,lufthansa,1217,1533).
-flight(istanbul,amsterdam,21,14,wednesday,spirit,1794,214).
-flight(havanna,roatan,13,9,monday,united,2111,1194).
-flight(munich,tokyo,10,4,saturday,emirates,474,1289).
-flight(toronto,washington,14,18,wednesday,united,949,62).
-flight(tokyo,washington,19,20,thursday,taca,2474,1757).
-flight(tegucigalpa,london,17,15,thursday,united,1418,1415).
-flight(rome,paris,6,0,sunday,continental,2300,795).
-flight(tokyo,munich,5,23,monday,emirates,2338,1127).
-flight(chicago,munich,22,11,thursday,taca,1496,894).
-flight(tegucigalpa,istanbul,18,5,sunday,delta,1308,1549).
-flight(tegucigalpa,moscow,2,12,saturday,taca,2974,188).
-flight(istanbul,chicago,7,5,thursday,united,1978,756).
-flight(toronto,london,9,0,saturday,emirates,2596,924).
-flight(beijing,amsterdam,19,2,thursday,emirates,2042,303).
-flight(chicago,madrid,0,1,wednesday,spirit,386,1154).
-flight(toronto,amsterdam,11,8,friday,united,1956,1885).
-flight(washington,rome,6,21,sunday,lufthansa,2446,1270).
-flight(toronto,rome,22,9,sunday,delta,2051,780).
-flight(roatan,amsterdam,21,1,saturday,continental,2673,769).
-flight(barcelona,beijing,14,17,friday,delta,904,521).
-flight(london,washington,3,5,saturday,spirit,1871,1276).
-flight(paris,madrid,19,17,monday,taca,1395,1180).
-flight(warsaw,rome,7,9,tuesday,finnair,949,1734).
-flight(roatan,beijing,19,11,saturday,emirates,2944,1540).
-flight(amsterdam,chicago,6,23,tuesday,delta,1233,738).
-flight(moscow,warsaw,9,0,friday,continental,665,1456).
-flight(madrid,rome,10,20,sunday,continental,1021,1096).
-flight(madrid,moscow,16,15,saturday,spirit,1172,1788).
-flight(washington,istanbul,13,15,tuesday,luxair,2455,719).
-flight(munich,houston,16,23,thursday,avianca,2142,1446).
-flight(toronto,tokyo,19,17,thursday,united,2187,1305).
-flight(houston,berlin,12,4,sunday,avianca,2106,12).
-flight(beijing,roatan,2,22,sunday,united,2329,1566).
-flight(london,munich,0,20,monday,united,2404,789).
-flight(berlin,paris,8,4,monday,emirates,18,697).
-flight(havanna,london,9,13,wednesday,delta,1005,625).
-flight(havanna,amsterdam,18,16,saturday,luxair,1486,861).
-flight(washington,havanna,15,6,sunday,united,1458,381).
-flight(london,washington,4,12,monday,taca,1590,1657).
-flight(barcelona,tokyo,18,5,tuesday,taca,1020,1024).
-flight(warsaw,paris,3,16,monday,taca,901,303).
-flight(amsterdam,madrid,20,3,thursday,continental,2985,184).
-flight(toronto,paris,9,17,thursday,continental,2703,453).
-flight(chicago,rome,6,23,friday,lufthansa,709,135).
-flight(amsterdam,beijing,1,13,tuesday,emirates,1541,667).
-flight(amsterdam,paris,16,23,monday,delta,141,591).
-flight(tokyo,tegucigalpa,2,15,monday,lufthansa,2470,1571).
-flight(munich,warsaw,21,2,friday,emirates,319,451).
-flight(roatan,berlin,21,17,thursday,continental,1428,1467).
-flight(roatan,munich,0,8,friday,taca,659,725).
-flight(rome,washington,21,6,monday,delta,2319,1387).
-flight(washington,tegucigalpa,0,2,sunday,lufthansa,181,775).
-flight(rome,moscow,9,13,wednesday,spirit,2508,220).
-flight(houston,toronto,18,9,wednesday,lufthansa,336,261).
-flight(madrid,amsterdam,12,9,sunday,continental,1209,1913).
-flight(rome,havanna,22,19,saturday,finnair,1764,1041).
-flight(tegucigalpa,toronto,12,16,sunday,emirates,147,1380).
-flight(moscow,washington,2,7,wednesday,delta,890,1800).
-flight(amsterdam,istanbul,21,6,monday,taca,1006,1607).
-flight(paris,toronto,23,3,friday,taca,676,886).
-flight(istanbul,amsterdam,7,9,thursday,delta,2473,1088).
-flight(istanbul,toronto,3,5,thursday,avianca,78,278).
-flight(tokyo,rome,3,17,tuesday,continental,806,382).
-flight(tokyo,houston,12,18,saturday,spirit,2337,1879).
-flight(istanbul,paris,18,3,friday,luxair,1367,706).
-flight(chicago,paris,4,6,thursday,luxair,1132,7).
-flight(madrid,chicago,2,1,tuesday,united,2911,1629).
-flight(chicago,munich,20,11,friday,delta,1175,1647).
-flight(paris,toronto,5,14,tuesday,avianca,2194,890).
-flight(roatan,tegucigalpa,13,5,saturday,emirates,1308,629).
-flight(chicago,london,1,13,sunday,avianca,2824,569).
-flight(toronto,barcelona,11,23,thursday,finnair,2003,1979).
-flight(warsaw,moscow,23,10,friday,continental,2924,244).
-flight(london,moscow,9,14,friday,avianca,7,846).
-flight(toronto,moscow,1,13,monday,delta,2385,308).
-flight(beijing,toronto,9,1,monday,continental,1314,1202).
-flight(chicago,tokyo,8,9,friday,finnair,2572,66).
-flight(amsterdam,rome,18,20,friday,emirates,213,6).
-flight(toronto,roatan,3,18,wednesday,continental,1037,1049).
-flight(chicago,istanbul,8,13,monday,luxair,441,1449).
-flight(tokyo,warsaw,5,20,wednesday,delta,2322,1397).
-flight(istanbul,chicago,15,10,tuesday,avianca,66,1770).
-flight(tokyo,moscow,18,3,tuesday,united,2954,1254).
-flight(munich,toronto,15,2,saturday,continental,2944,1657).
-flight(madrid,toronto,17,12,tuesday,luxair,547,630).
-flight(amsterdam,paris,9,8,sunday,avianca,2781,279).
-flight(toronto,chicago,8,6,sunday,finnair,656,11).
-flight(london,warsaw,17,16,sunday,luxair,2884,475).
-flight(amsterdam,madrid,9,17,wednesday,emirates,727,76).
-flight(tokyo,roatan,21,3,thursday,finnair,599,499).
-flight(washington,barcelona,0,3,wednesday,luxair,1907,811).
-flight(barcelona,rome,18,23,wednesday,finnair,2617,1019).
-flight(paris,istanbul,2,17,tuesday,delta,89,1989).
-flight(madrid,tokyo,6,21,thursday,finnair,2360,395).
-flight(amsterdam,roatan,6,1,sunday,finnair,2310,1657).
-flight(warsaw,amsterdam,20,3,sunday,united,1878,969).
-flight(munich,london,23,18,monday,continental,2399,1207).
-flight(beijing,toronto,11,6,saturday,luxair,2125,1937).
-flight(chicago,paris,4,9,monday,finnair,1098,99).
-flight(istanbul,tokyo,6,20,monday,continental,1366,891).
-flight(washington,munich,11,12,saturday,finnair,2571,1220).
-flight(madrid,paris,16,14,tuesday,spirit,1002,85).
-flight(amsterdam,washington,8,6,saturday,luxair,2328,550).
-flight(warsaw,washington,22,7,wednesday,continental,2123,616).
-flight(rome,houston,12,2,tuesday,avianca,1593,1036).
-flight(amsterdam,houston,5,2,friday,united,299,1707).
-flight(roatan,warsaw,9,19,thursday,taca,31,1273).
-flight(istanbul,houston,8,22,monday,spirit,2135,695).
-flight(barcelona,washington,6,7,thursday,spirit,511,790).
-flight(houston,washington,0,8,tuesday,taca,1433,1553).
-flight(moscow,munich,21,20,sunday,lufthansa,1040,1501).
-flight(munich,houston,22,7,thursday,luxair,2385,1606).
-flight(beijing,chicago,0,19,thursday,united,1583,1868).
-flight(tegucigalpa,toronto,18,6,wednesday,finnair,1529,1).
-flight(istanbul,munich,7,12,tuesday,avianca,1334,64).
-flight(amsterdam,madrid,11,21,friday,delta,786,1738).
-flight(madrid,paris,8,7,saturday,emirates,2712,1749).
-flight(istanbul,london,4,16,wednesday,continental,291,1080).
-flight(tegucigalpa,madrid,22,16,monday,lufthansa,619,1041).
-flight(toronto,istanbul,9,17,tuesday,united,215,447).
-flight(moscow,tegucigalpa,19,5,thursday,delta,200,209).
-flight(amsterdam,istanbul,10,11,tuesday,lufthansa,75,858).
-flight(istanbul,warsaw,7,0,sunday,lufthansa,2036,1279).
-flight(amsterdam,madrid,22,7,saturday,luxair,1466,1851).
-flight(chicago,london,14,12,wednesday,lufthansa,2577,1675).
-flight(warsaw,paris,5,2,thursday,taca,726,1556).
-flight(roatan,tegucigalpa,7,20,wednesday,lufthansa,92,386).
-flight(toronto,amsterdam,17,11,tuesday,finnair,1791,1000).
-flight(madrid,barcelona,9,11,tuesday,finnair,1575,810).
-flight(washington,berlin,10,2,wednesday,luxair,872,497).
-flight(moscow,warsaw,9,7,thursday,spirit,2892,449).
-flight(roatan,barcelona,11,12,sunday,delta,377,145).
-flight(warsaw,tegucigalpa,9,15,thursday,delta,2948,864).
-flight(moscow,berlin,9,21,thursday,emirates,696,580).
-flight(berlin,chicago,16,3,thursday,delta,1279,1497).
-flight(munich,madrid,10,14,sunday,spirit,2614,1961).
-flight(paris,warsaw,8,0,friday,taca,1964,469).
-flight(toronto,istanbul,6,16,saturday,luxair,259,1714).
-flight(toronto,munich,12,14,thursday,emirates,1968,710).
-flight(berlin,paris,1,18,monday,avianca,455,53).
-flight(rome,havanna,8,21,thursday,avianca,888,944).
-flight(warsaw,roatan,6,20,sunday,lufthansa,996,244).
-flight(amsterdam,rome,22,23,sunday,continental,2454,1223).
-flight(amsterdam,paris,20,1,friday,spirit,1326,702).
-flight(paris,havanna,12,15,friday,luxair,2848,677).
-flight(toronto,berlin,1,4,saturday,delta,1967,668).
-flight(istanbul,amsterdam,22,12,monday,continental,198,674).
-flight(munich,houston,1,7,wednesday,avianca,2297,1089).
-flight(beijing,moscow,4,14,thursday,finnair,286,1886).
-flight(amsterdam,roatan,20,5,thursday,united,1437,886).
-flight(warsaw,havanna,20,4,monday,lufthansa,652,1703).
-flight(chicago,istanbul,21,12,saturday,lufthansa,2622,804).
-flight(rome,paris,18,9,tuesday,luxair,161,718).
-flight(amsterdam,roatan,7,11,saturday,avianca,1761,1085).
-flight(tegucigalpa,beijing,2,6,thursday,taca,2207,999).
-flight(tegucigalpa,istanbul,0,10,wednesday,taca,960,491).
-flight(tegucigalpa,madrid,14,8,thursday,avianca,748,1996).
-flight(barcelona,london,6,10,tuesday,lufthansa,479,1165).
-flight(rome,havanna,12,20,friday,avianca,1401,1230).
-flight(houston,roatan,0,17,monday,delta,2138,888).
-flight(warsaw,amsterdam,4,8,wednesday,delta,2127,1075).
-flight(havanna,tegucigalpa,3,18,monday,continental,492,1709).
-flight(houston,tokyo,16,20,thursday,lufthansa,2444,782).
-flight(washington,berlin,2,18,saturday,finnair,1715,526).
-flight(houston,barcelona,15,3,friday,lufthansa,112,1776).
-flight(warsaw,munich,9,19,saturday,spirit,248,149).
-flight(tokyo,washington,5,19,tuesday,continental,196,634).
-flight(washington,tegucigalpa,14,20,sunday,delta,668,198).
-flight(amsterdam,munich,4,19,monday,continental,645,196).
-flight(berlin,paris,22,3,friday,continental,217,887).
-flight(paris,houston,16,0,friday,taca,2326,651).
-flight(beijing,barcelona,17,3,monday,continental,459,1022).
-flight(moscow,madrid,2,5,wednesday,united,1296,1427).
-flight(washington,beijing,10,20,thursday,taca,213,1937).
-flight(roatan,rome,18,7,sunday,spirit,217,925).
-flight(tokyo,london,15,10,monday,continental,87,1857).
-flight(barcelona,munich,4,2,monday,taca,1182,57).
-flight(havanna,rome,22,12,saturday,delta,2000,1880).
-flight(chicago,amsterdam,0,15,wednesday,lufthansa,785,1462).
-flight(chicago,rome,22,5,friday,finnair,2368,248).
-flight(beijing,tegucigalpa,1,8,thursday,lufthansa,2746,1751).
-flight(moscow,tokyo,19,7,sunday,taca,417,1010).
-flight(moscow,madrid,1,13,saturday,lufthansa,2814,1348).
-flight(amsterdam,toronto,0,21,saturday,emirates,131,378).
-flight(istanbul,houston,16,4,tuesday,lufthansa,1068,1492).
-flight(chicago,rome,9,16,sunday,avianca,2281,1415).
-flight(berlin,havanna,23,9,saturday,taca,1087,1284).
-flight(istanbul,amsterdam,10,16,monday,luxair,2365,1496).
-flight(roatan,tokyo,8,16,wednesday,lufthansa,2222,189).
-flight(washington,madrid,14,15,tuesday,finnair,1140,1601).
-flight(chicago,madrid,15,19,friday,finnair,2852,1457).
-flight(havanna,barcelona,10,8,saturday,avianca,59,982).
-flight(paris,rome,11,13,tuesday,emirates,1667,1985).
-flight(moscow,berlin,0,13,saturday,lufthansa,2526,1160).
-flight(toronto,istanbul,0,4,monday,luxair,473,1745).
-flight(beijing,warsaw,14,20,saturday,continental,42,95).
-flight(barcelona,rome,18,10,monday,luxair,2789,1227).
-flight(roatan,houston,19,6,thursday,united,2146,969).
-flight(havanna,london,23,5,sunday,united,2318,1603).
-flight(moscow,amsterdam,9,5,tuesday,finnair,1531,678).
-flight(berlin,rome,13,0,wednesday,luxair,2170,416).
-flight(houston,munich,21,22,saturday,emirates,1837,1059).
-flight(toronto,paris,6,11,saturday,delta,1308,1337).
-flight(houston,beijing,5,9,friday,lufthansa,113,256).
-flight(madrid,roatan,10,6,saturday,delta,710,374).
-flight(tokyo,berlin,5,13,saturday,finnair,1958,26).
-flight(tegucigalpa,rome,12,0,monday,emirates,1459,1075).
-flight(chicago,amsterdam,5,20,sunday,continental,2633,919).
-flight(beijing,havanna,19,6,tuesday,luxair,1934,1757).
-flight(munich,rome,16,19,friday,united,2695,613).
-flight(houston,amsterdam,19,20,friday,lufthansa,2420,1824).
-flight(houston,barcelona,23,17,tuesday,united,1099,291).
-flight(rome,tegucigalpa,21,19,tuesday,emirates,1006,764).
-flight(roatan,barcelona,16,18,tuesday,luxair,1975,1719).
-flight(munich,madrid,5,12,tuesday,delta,830,352).
-flight(madrid,paris,7,8,thursday,lufthansa,785,1594).
-flight(tegucigalpa,berlin,12,14,wednesday,continental,215,1716).
-flight(beijing,houston,12,3,monday,united,1910,425).
-flight(london,amsterdam,21,18,monday,lufthansa,944,1150).
-flight(paris,chicago,0,11,wednesday,luxair,1419,1783).
-flight(berlin,houston,23,15,monday,emirates,2679,331).
-flight(munich,tegucigalpa,3,1,wednesday,avianca,2170,1866).
-flight(paris,moscow,6,4,thursday,finnair,825,1663).
-flight(toronto,chicago,0,17,tuesday,avianca,10,520).
-flight(chicago,amsterdam,5,22,tuesday,luxair,700,598).
-flight(istanbul,barcelona,10,19,saturday,finnair,1945,1523).
-flight(london,moscow,23,8,tuesday,taca,1186,914).
-flight(washington,warsaw,22,14,tuesday,united,560,140).
-flight(warsaw,moscow,22,15,saturday,united,1582,1572).
-flight(istanbul,tokyo,19,3,wednesday,lufthansa,1742,1650).
-flight(moscow,munich,20,19,wednesday,taca,2239,1879).
-flight(rome,roatan,5,14,friday,finnair,1756,310).
-flight(moscow,rome,14,17,sunday,emirates,612,1393).
-flight(berlin,tokyo,1,15,sunday,taca,219,749).
-flight(houston,madrid,5,14,tuesday,emirates,1142,1328).
-flight(tegucigalpa,havanna,3,18,wednesday,delta,816,195).
-flight(barcelona,toronto,9,0,wednesday,finnair,430,1703).
-flight(paris,washington,11,0,friday,finnair,1391,1336).
-flight(tegucigalpa,toronto,23,7,saturday,delta,1510,1867).
-flight(tokyo,istanbul,0,11,sunday,finnair,1851,899).
-flight(roatan,london,20,23,tuesday,continental,601,1133).
-flight(madrid,beijing,23,14,wednesday,spirit,306,840).
-flight(warsaw,rome,14,20,friday,luxair,2180,191).
-flight(roatan,amsterdam,8,14,saturday,united,2899,32).
-flight(madrid,washington,4,9,monday,avianca,388,338).
-flight(chicago,paris,19,22,friday,lufthansa,22,848).
-flight(houston,istanbul,15,21,sunday,spirit,1993,736).
-flight(berlin,chicago,9,4,sunday,lufthansa,1107,916).
-flight(washington,tegucigalpa,10,17,tuesday,finnair,2528,590).
-flight(munich,barcelona,4,17,friday,spirit,180,640).
-flight(roatan,munich,13,14,wednesday,emirates,920,689).
-flight(tegucigalpa,munich,15,16,saturday,luxair,907,1243).
-flight(munich,paris,4,17,monday,united,1009,1801).
-flight(warsaw,moscow,16,11,tuesday,taca,933,830).
-flight(berlin,paris,10,3,monday,emirates,1132,909).
-flight(houston,berlin,18,16,saturday,finnair,1242,180).
-flight(berlin,moscow,17,21,thursday,avianca,782,1535).
-flight(tokyo,barcelona,11,5,wednesday,continental,2294,1789).
-flight(houston,amsterdam,16,14,sunday,taca,2097,1041).
-flight(moscow,amsterdam,9,19,saturday,luxair,311,1676).
-flight(warsaw,tegucigalpa,17,3,tuesday,emirates,469,451).
-flight(munich,toronto,8,1,wednesday,taca,2741,1990).
-flight(madrid,havanna,7,6,saturday,luxair,2530,598).
-flight(berlin,istanbul,18,16,saturday,finnair,2139,547).
-flight(rome,tegucigalpa,22,4,saturday,spirit,261,1780).
-flight(washington,chicago,2,10,sunday,delta,313,952).
-flight(madrid,moscow,3,23,thursday,taca,189,305).
-flight(amsterdam,washington,19,11,saturday,lufthansa,2033,1388).
-flight(berlin,warsaw,15,5,monday,emirates,1763,1704).
-flight(beijing,tegucigalpa,17,11,friday,continental,1951,1984).
-flight(washington,madrid,5,4,tuesday,united,1255,551).
-flight(paris,warsaw,12,23,saturday,continental,52,1569).
-flight(london,washington,21,6,wednesday,luxair,2741,1138).
-flight(rome,moscow,11,12,friday,delta,2010,1983).
-flight(roatan,istanbul,3,20,tuesday,united,394,1130).
-flight(roatan,chicago,12,3,tuesday,continental,1969,1712).
-flight(tegucigalpa,beijing,15,23,sunday,luxair,496,1414).
-flight(roatan,havanna,19,7,wednesday,united,1887,1759).
-flight(houston,paris,23,11,monday,spirit,2306,525).
-flight(washington,tegucigalpa,14,11,monday,luxair,2782,1684).
-flight(madrid,washington,0,19,friday,avianca,37,1104).
-flight(paris,washington,10,16,wednesday,emirates,1808,816).
-flight(roatan,munich,10,8,monday,lufthansa,1663,1046).
-flight(tegucigalpa,london,1,16,saturday,emirates,2871,59).
-flight(havanna,houston,13,7,friday,emirates,2639,233).
-flight(toronto,istanbul,12,22,monday,taca,1021,140).
-flight(istanbul,chicago,9,22,thursday,emirates,2803,1033).
-flight(warsaw,tegucigalpa,6,17,friday,emirates,2211,1264).
-flight(barcelona,roatan,19,7,wednesday,avianca,2425,1200).
-flight(warsaw,houston,15,11,thursday,delta,484,23).
-flight(barcelona,beijing,21,22,tuesday,emirates,574,471).
-flight(moscow,munich,13,17,tuesday,luxair,2407,889).
-flight(houston,tegucigalpa,15,17,saturday,spirit,1854,1895).
-flight(barcelona,moscow,9,10,tuesday,taca,1755,1453).
-flight(warsaw,moscow,13,18,thursday,delta,774,477).
-flight(paris,toronto,19,10,thursday,emirates,2100,456).
-flight(barcelona,tegucigalpa,22,18,tuesday,continental,2068,373).
-flight(moscow,munich,13,10,thursday,spirit,2156,1401).
-flight(warsaw,toronto,23,10,friday,luxair,2980,847).
-flight(tokyo,havanna,14,12,tuesday,spirit,2607,568).
-flight(toronto,tokyo,12,13,friday,lufthansa,596,964).
-flight(washington,tegucigalpa,6,9,sunday,spirit,2891,586).
-flight(beijing,warsaw,16,13,wednesday,finnair,2694,211).
-flight(roatan,barcelona,9,14,saturday,delta,865,186).
-flight(istanbul,havanna,10,0,tuesday,taca,2754,1835).
-flight(roatan,chicago,0,16,tuesday,continental,1155,1102).
-flight(tokyo,roatan,14,7,monday,emirates,2416,1157).
-flight(paris,berlin,19,5,saturday,emirates,460,1007).
-flight(munich,istanbul,21,3,sunday,spirit,1722,1970).
-flight(london,toronto,2,6,wednesday,continental,2028,1236).
-flight(barcelona,madrid,1,10,saturday,finnair,487,1964).
-flight(toronto,moscow,4,6,thursday,avianca,1385,1646).
-flight(roatan,beijing,3,14,tuesday,continental,1677,748).
-flight(madrid,amsterdam,7,1,sunday,spirit,743,1832).
-flight(toronto,barcelona,15,6,tuesday,lufthansa,2265,287).
-flight(berlin,beijing,0,23,tuesday,delta,1075,1937).
-flight(berlin,madrid,6,4,wednesday,taca,1191,965).
-flight(amsterdam,warsaw,16,12,friday,spirit,1558,1108).
-flight(amsterdam,munich,18,9,sunday,avianca,2108,1433).
-flight(munich,london,14,6,friday,luxair,27,1309).
-flight(warsaw,havanna,2,11,sunday,spirit,344,1937).
-flight(chicago,munich,14,19,tuesday,continental,2430,1058).
-flight(warsaw,chicago,20,13,friday,continental,1933,204).
-flight(houston,paris,10,8,sunday,united,2234,1601).
-flight(rome,barcelona,14,4,monday,continental,497,1097).
-flight(chicago,tegucigalpa,4,5,sunday,delta,1991,290).
-flight(havanna,roatan,15,21,monday,lufthansa,1059,1966).
-flight(tegucigalpa,madrid,8,10,wednesday,emirates,1870,1450).
-flight(paris,washington,16,20,friday,taca,2739,416).
-flight(washington,havanna,19,9,thursday,taca,2517,1221).
-flight(houston,istanbul,22,17,thursday,united,1988,966).
-flight(barcelona,toronto,19,21,monday,spirit,247,1479).
-flight(houston,toronto,15,20,thursday,emirates,820,165).
-flight(warsaw,berlin,1,13,thursday,united,2484,235).
-flight(toronto,washington,12,1,tuesday,finnair,2000,1424).
-flight(barcelona,london,15,17,wednesday,spirit,1841,555).
-flight(barcelona,moscow,16,1,friday,luxair,1987,1369).
-flight(amsterdam,beijing,7,6,friday,delta,15,1162).
-flight(toronto,tokyo,13,4,monday,emirates,2803,1923).
-flight(rome,washington,20,0,monday,taca,1341,966).
-flight(rome,tegucigalpa,3,13,tuesday,lufthansa,989,1798).
-flight(rome,houston,22,7,monday,taca,1200,523).
-flight(london,tokyo,5,2,saturday,united,1711,1844).
-flight(roatan,tegucigalpa,5,18,thursday,lufthansa,699,394).
-flight(tegucigalpa,washington,18,15,tuesday,taca,1772,1568).
-flight(houston,amsterdam,6,18,monday,luxair,2538,1355).
-flight(havanna,roatan,5,15,friday,taca,2809,363).
-flight(tegucigalpa,amsterdam,15,10,monday,lufthansa,24,1396).
-flight(moscow,tegucigalpa,17,19,sunday,taca,1435,646).
-flight(houston,moscow,7,10,monday,delta,494,1132).
-flight(munich,toronto,8,18,wednesday,delta,2032,1060).
-flight(madrid,paris,18,19,friday,spirit,1646,1908).
-flight(havanna,houston,21,23,friday,avianca,1698,1396).
-flight(moscow,houston,22,18,thursday,avianca,2454,1105).
-flight(beijing,roatan,9,22,sunday,emirates,165,398).
-flight(warsaw,amsterdam,6,1,thursday,united,2795,1209).
-flight(houston,moscow,1,11,tuesday,emirates,1278,455).
-flight(chicago,paris,13,21,friday,delta,945,1919).
-flight(paris,rome,17,5,sunday,united,1656,1960).
-flight(washington,roatan,4,21,thursday,spirit,428,1838).
-flight(havanna,barcelona,21,12,wednesday,lufthansa,2054,970).
-flight(roatan,barcelona,22,6,tuesday,united,128,1310).
-flight(chicago,beijing,13,1,saturday,finnair,307,1899).
-flight(chicago,toronto,20,3,tuesday,luxair,1800,1456).
-flight(havanna,istanbul,9,22,sunday,delta,1117,1411).
-flight(munich,toronto,12,1,sunday,taca,132,16).
-flight(berlin,madrid,7,9,wednesday,luxair,2251,1583).
-flight(berlin,tokyo,5,23,tuesday,avianca,1082,1195).
-flight(toronto,beijing,9,14,tuesday,lufthansa,1416,1982).
-flight(munich,istanbul,9,16,monday,emirates,2535,1419).
-flight(havanna,moscow,7,15,saturday,luxair,347,1279).
-flight(moscow,beijing,15,11,monday,taca,1641,1489).
-flight(london,tegucigalpa,22,1,sunday,continental,2937,448).
-flight(munich,tegucigalpa,23,7,tuesday,taca,657,863).
-flight(roatan,madrid,16,1,thursday,lufthansa,51,173).
-flight(houston,moscow,21,2,saturday,taca,1712,127).
-flight(amsterdam,istanbul,15,21,friday,lufthansa,1968,570).
-flight(london,amsterdam,20,15,tuesday,luxair,2522,416).
-flight(tegucigalpa,rome,21,5,tuesday,taca,2359,1145).
-flight(houston,beijing,17,2,friday,delta,1831,170).
-flight(tegucigalpa,chicago,17,19,friday,united,2478,349).
-flight(warsaw,istanbul,18,1,monday,continental,2518,497).
-flight(london,barcelona,11,6,monday,delta,1960,1297).
-flight(havanna,washington,8,0,friday,luxair,12,167).
-flight(barcelona,chicago,17,14,sunday,continental,1102,1142).
-flight(toronto,roatan,8,5,friday,united,2047,1847).
-flight(berlin,istanbul,19,23,monday,finnair,1025,145).
-flight(moscow,rome,20,7,saturday,continental,877,107).
-flight(munich,london,19,3,thursday,taca,673,1574).
-flight(roatan,tokyo,8,5,wednesday,luxair,511,1882).
-flight(amsterdam,chicago,12,14,sunday,taca,851,1175).
-flight(toronto,houston,11,4,friday,delta,1298,1271).
-flight(barcelona,rome,7,6,tuesday,luxair,1780,136).
-flight(havanna,paris,11,20,friday,united,1199,1906).
-flight(washington,amsterdam,22,12,saturday,continental,872,921).
-flight(houston,barcelona,18,11,saturday,delta,2042,1201).
-flight(warsaw,barcelona,9,8,friday,continental,48,1326).
-flight(madrid,havanna,8,16,saturday,avianca,456,358).
-flight(madrid,toronto,20,14,friday,united,2885,1047).
-flight(paris,barcelona,6,23,saturday,avianca,1688,251).
-flight(london,havanna,7,6,saturday,avianca,995,297).
-flight(chicago,london,10,7,wednesday,luxair,2592,1735).
-flight(amsterdam,rome,20,13,wednesday,taca,2075,1199).
-flight(barcelona,berlin,7,23,friday,united,1075,529).
-flight(paris,houston,8,5,friday,lufthansa,2117,454).
-flight(chicago,houston,18,4,friday,avianca,1810,1106).
-flight(berlin,warsaw,6,0,wednesday,spirit,952,1545).
-flight(berlin,tegucigalpa,12,16,tuesday,spirit,1402,1250).
-flight(munich,berlin,23,4,saturday,emirates,2200,1529).
-flight(toronto,moscow,21,13,monday,continental,87,329).
-flight(istanbul,berlin,8,22,thursday,emirates,484,853).
-flight(washington,istanbul,18,12,thursday,emirates,1855,877).
-flight(chicago,rome,1,22,tuesday,united,1438,475).
-flight(washington,madrid,3,11,friday,united,959,324).
-flight(washington,moscow,19,12,wednesday,luxair,374,1087).
-flight(chicago,houston,14,4,wednesday,spirit,549,496).
-flight(havanna,roatan,6,20,saturday,united,434,1417).
-flight(barcelona,munich,5,14,tuesday,lufthansa,1723,1781).
-flight(washington,beijing,6,13,monday,delta,2881,1137).
-flight(washington,berlin,20,19,monday,continental,818,1327).
-flight(istanbul,madrid,14,6,sunday,finnair,904,626).
-flight(london,houston,13,3,sunday,luxair,402,509).
-flight(warsaw,amsterdam,17,22,tuesday,finnair,539,1036).
-flight(moscow,rome,4,14,friday,luxair,1950,499).
-flight(havanna,chicago,0,23,tuesday,luxair,160,897).
-flight(tokyo,warsaw,16,19,sunday,spirit,1662,491).
-flight(london,istanbul,8,1,monday,delta,145,285).
-flight(toronto,madrid,7,1,monday,luxair,1462,208).
-flight(istanbul,washington,11,16,sunday,avianca,101,1834).
-flight(madrid,rome,13,8,thursday,lufthansa,709,1619).
-flight(madrid,havanna,0,21,friday,spirit,803,1489).
-flight(tokyo,madrid,18,22,monday,emirates,495,725).
-flight(berlin,moscow,7,8,sunday,continental,362,1578).
-flight(beijing,munich,1,14,saturday,lufthansa,1228,1353).
-flight(tegucigalpa,roatan,21,4,saturday,luxair,1005,733).
-flight(berlin,beijing,9,0,thursday,continental,2084,363).
-flight(barcelona,toronto,13,17,thursday,finnair,1951,1165).
-flight(roatan,tegucigalpa,21,13,monday,taca,82,929).
-flight(tokyo,munich,17,14,saturday,finnair,397,1522).
-flight(munich,tokyo,23,12,wednesday,emirates,2543,8).
-flight(munich,paris,22,5,thursday,spirit,2057,377).
-flight(paris,istanbul,7,13,tuesday,continental,1352,1018).
-flight(madrid,tokyo,17,3,monday,luxair,893,1585).
-flight(munich,roatan,20,1,wednesday,avianca,1129,148).
-flight(rome,london,18,6,monday,taca,2061,1483).
-flight(washington,london,8,16,saturday,taca,360,100).
-flight(havanna,chicago,20,0,monday,emirates,1612,1377).
-flight(barcelona,istanbul,11,7,sunday,continental,207,111).
-flight(istanbul,warsaw,21,0,friday,luxair,1211,820).
-flight(munich,havanna,23,13,tuesday,emirates,1228,475).
-flight(washington,houston,4,20,wednesday,avianca,1515,844).
-flight(madrid,tokyo,8,7,sunday,avianca,1261,1085).
-flight(paris,washington,11,1,monday,spirit,1582,1765).
-flight(madrid,chicago,5,19,monday,united,374,941).
-flight(washington,tegucigalpa,18,3,friday,taca,2485,1684).
-flight(london,beijing,9,22,wednesday,luxair,1439,926).
-flight(munich,tokyo,19,12,monday,spirit,608,834).
-flight(barcelona,chicago,3,1,friday,continental,2804,1756).
-flight(warsaw,amsterdam,9,23,friday,finnair,1532,1553).
-flight(tegucigalpa,havanna,11,1,tuesday,united,2653,1226).
-flight(houston,rome,23,20,wednesday,avianca,2231,935).
-flight(moscow,barcelona,8,18,sunday,spirit,1511,91).
-flight(barcelona,tegucigalpa,1,22,saturday,finnair,1636,642).
-flight(rome,berlin,21,0,monday,finnair,971,1354).
-flight(moscow,tokyo,5,3,monday,spirit,1470,1605).
-flight(berlin,warsaw,5,2,tuesday,delta,2551,365).
-flight(warsaw,paris,15,14,wednesday,emirates,959,1988).
-flight(houston,washington,12,17,tuesday,delta,2048,1851).
-flight(tokyo,roatan,10,16,friday,finnair,131,1152).
-flight(roatan,washington,18,21,saturday,luxair,2403,1223).
-flight(beijing,tegucigalpa,12,10,monday,united,925,8).
-flight(chicago,beijing,14,11,thursday,luxair,2885,53).
-flight(chicago,istanbul,1,11,tuesday,taca,704,1798).
-flight(tegucigalpa,munich,0,5,wednesday,lufthansa,61,1737).
-flight(london,chicago,8,11,saturday,delta,223,322).
-flight(paris,barcelona,8,12,friday,emirates,1524,1307).
-flight(houston,warsaw,20,9,sunday,continental,1254,668).
-flight(toronto,rome,21,2,monday,spirit,2425,1177).
-flight(rome,madrid,11,9,thursday,united,2742,528).
-flight(istanbul,washington,22,4,tuesday,lufthansa,1702,483).
-flight(rome,paris,10,1,wednesday,united,2746,64).
-flight(istanbul,washington,0,2,monday,lufthansa,1932,1728).
-flight(chicago,moscow,14,16,thursday,united,426,892).
-flight(chicago,moscow,21,4,saturday,united,2863,859).
-flight(roatan,warsaw,18,15,monday,continental,743,688).
-flight(rome,amsterdam,17,2,saturday,united,307,1382).
-flight(barcelona,munich,15,16,monday,delta,1985,1677).
-flight(tegucigalpa,barcelona,17,23,saturday,continental,1569,1557).
-flight(madrid,amsterdam,19,14,monday,lufthansa,2528,116).
-flight(rome,washington,9,12,friday,lufthansa,1985,818).
-flight(roatan,beijing,21,22,wednesday,lufthansa,336,395).
-flight(tokyo,london,6,5,thursday,taca,1589,725).
-flight(tegucigalpa,washington,18,23,sunday,finnair,2156,1112).
-flight(madrid,roatan,3,10,monday,lufthansa,47,1814).
-flight(paris,warsaw,5,2,monday,continental,1320,204).
-flight(houston,istanbul,22,18,saturday,lufthansa,2157,1272).
-flight(munich,paris,4,19,thursday,luxair,2723,333).
-flight(tokyo,madrid,10,14,sunday,avianca,2645,1518).
-flight(munich,amsterdam,11,18,friday,emirates,996,931).
-flight(madrid,toronto,20,17,sunday,taca,799,308).
-flight(toronto,moscow,23,3,monday,united,2273,782).
-flight(berlin,houston,18,0,wednesday,spirit,2100,789).
-flight(madrid,barcelona,11,19,thursday,finnair,1354,1161).
-flight(beijing,chicago,16,13,wednesday,taca,243,1964).
-flight(tegucigalpa,beijing,1,23,sunday,continental,1292,1821).
-flight(roatan,washington,23,14,tuesday,lufthansa,2692,1699).
-flight(roatan,paris,19,12,thursday,lufthansa,936,1882).
-flight(berlin,istanbul,23,4,wednesday,continental,2793,204).
-flight(chicago,moscow,22,4,tuesday,emirates,1688,333).
-flight(warsaw,toronto,21,16,tuesday,finnair,2897,426).
-flight(toronto,madrid,5,10,sunday,spirit,494,565).
-flight(houston,tokyo,17,5,tuesday,united,10,1224).
-flight(london,amsterdam,7,12,wednesday,lufthansa,231,664).
-flight(warsaw,paris,14,2,monday,delta,495,1856).
-flight(havanna,beijing,19,22,thursday,lufthansa,1331,442).
-flight(havanna,beijing,5,18,thursday,luxair,1337,1629).
-flight(rome,roatan,21,5,monday,avianca,2550,576).
-flight(tegucigalpa,havanna,20,0,sunday,lufthansa,1078,831).
-flight(paris,moscow,10,21,wednesday,taca,1769,869).
-flight(chicago,washington,14,7,saturday,spirit,1975,1093).
-flight(houston,madrid,12,23,tuesday,finnair,838,1049).
-flight(washington,paris,3,0,wednesday,continental,1908,1570).
-flight(istanbul,warsaw,17,12,thursday,continental,2921,486).
-flight(warsaw,amsterdam,17,14,saturday,lufthansa,1123,1567).
-flight(beijing,havanna,3,23,friday,finnair,1421,126).
-flight(madrid,paris,19,16,thursday,avianca,1572,391).
-flight(tegucigalpa,rome,0,13,monday,united,280,1742).
-flight(beijing,roatan,4,18,sunday,united,1721,1400).
-flight(houston,barcelona,2,17,sunday,emirates,1948,841).
-flight(toronto,tokyo,20,15,wednesday,luxair,2580,1303).
-flight(paris,tegucigalpa,1,16,tuesday,spirit,470,728).
-flight(munich,berlin,9,3,saturday,finnair,998,317).
-flight(berlin,paris,19,13,wednesday,taca,1412,1501).
-flight(houston,munich,10,0,thursday,lufthansa,1052,260).
-flight(tokyo,warsaw,19,9,wednesday,finnair,2063,1815).
-flight(barcelona,madrid,19,14,wednesday,finnair,1440,1493).
-flight(toronto,houston,2,14,tuesday,continental,631,185).
-flight(havanna,amsterdam,19,7,friday,spirit,950,303).
-flight(london,warsaw,14,16,friday,lufthansa,1708,1715).
-flight(tokyo,beijing,11,5,thursday,united,897,1695).
-flight(tegucigalpa,london,16,14,thursday,emirates,776,90).
-flight(madrid,tegucigalpa,4,6,wednesday,emirates,254,340).
-flight(berlin,istanbul,9,13,tuesday,taca,1895,1519).
-flight(roatan,beijing,7,14,monday,delta,270,1780).
-flight(madrid,rome,6,23,saturday,continental,347,265).
-flight(beijing,warsaw,19,17,sunday,continental,2354,1618).
-flight(istanbul,rome,21,12,tuesday,united,580,1662).
-flight(amsterdam,toronto,6,15,friday,lufthansa,2366,726).
-flight(toronto,havanna,4,14,sunday,lufthansa,619,998).
-flight(washington,berlin,11,16,tuesday,luxair,1170,941).
-flight(houston,istanbul,2,23,thursday,spirit,559,1001).
-flight(havanna,toronto,19,21,sunday,finnair,926,1927).
-flight(amsterdam,chicago,19,0,sunday,lufthansa,1892,414).
-flight(rome,munich,22,3,saturday,luxair,1553,1027).
-flight(madrid,rome,15,12,saturday,continental,1065,831).
-flight(moscow,havanna,13,2,saturday,united,1416,91).
-flight(istanbul,barcelona,5,11,tuesday,united,2978,1136).
-flight(istanbul,amsterdam,20,8,saturday,spirit,1263,1382).
-flight(amsterdam,rome,6,22,wednesday,luxair,1911,948).
-flight(paris,warsaw,0,13,thursday,united,1546,813).
-flight(amsterdam,moscow,0,1,wednesday,lufthansa,549,1151).
-flight(roatan,havanna,17,9,sunday,luxair,330,1546).
-flight(amsterdam,havanna,21,8,wednesday,continental,1172,1257).
-flight(rome,toronto,6,23,friday,continental,932,1355).
-flight(barcelona,warsaw,6,2,friday,finnair,2922,1508).
-flight(berlin,roatan,7,15,friday,lufthansa,1557,261).
-flight(madrid,tokyo,2,17,thursday,finnair,55,658).
-flight(paris,madrid,12,20,thursday,continental,2788,1615).
-flight(rome,houston,21,10,wednesday,finnair,1641,1307).
-flight(tokyo,london,8,2,friday,avianca,2324,1114).
-flight(paris,tokyo,6,18,wednesday,emirates,828,277).
-flight(amsterdam,houston,14,0,monday,delta,81,1906).
-flight(amsterdam,washington,4,19,monday,taca,414,58).
-flight(havanna,barcelona,14,16,monday,avianca,1339,802).
-flight(munich,madrid,16,15,thursday,united,847,28).
-flight(houston,chicago,9,15,wednesday,lufthansa,1206,224).
-flight(london,moscow,23,17,friday,emirates,535,6).
-flight(london,barcelona,17,23,friday,continental,695,8).
-flight(moscow,chicago,18,23,thursday,united,200,981).
-flight(istanbul,barcelona,2,16,thursday,taca,1026,1168).
-flight(tegucigalpa,houston,14,7,sunday,finnair,1614,1468).
-flight(beijing,roatan,5,10,monday,emirates,793,857).
-flight(moscow,paris,16,8,wednesday,avianca,399,1503).
-flight(paris,london,4,1,sunday,avianca,2630,480).
-flight(tokyo,istanbul,18,3,wednesday,lufthansa,2459,1195).
-flight(roatan,havanna,17,3,monday,emirates,707,196).
-flight(warsaw,roatan,18,8,thursday,lufthansa,666,1004).
-flight(amsterdam,moscow,22,9,saturday,delta,2210,1173).
-flight(tegucigalpa,warsaw,5,3,sunday,finnair,573,11).
-flight(roatan,warsaw,12,17,monday,lufthansa,2668,1737).
-flight(tegucigalpa,munich,7,11,saturday,luxair,1631,1266).
-flight(paris,chicago,23,18,monday,finnair,2382,33).
-flight(beijing,warsaw,18,6,saturday,finnair,152,391).
-flight(tegucigalpa,moscow,23,18,thursday,united,2283,1788).
-flight(washington,paris,12,17,thursday,united,1227,1762).
-flight(london,amsterdam,22,13,friday,luxair,926,716).
-flight(tokyo,chicago,7,10,friday,taca,198,126).
-flight(beijing,istanbul,15,22,monday,finnair,1265,16).
-flight(munich,london,3,0,wednesday,avianca,309,1966).
-flight(houston,roatan,19,13,friday,delta,820,681).
-flight(havanna,chicago,4,2,thursday,taca,650,1357).
-flight(london,rome,21,19,saturday,continental,760,244).
-flight(paris,roatan,3,18,wednesday,avianca,2815,1459).
-flight(washington,tokyo,5,8,monday,luxair,416,783).
-flight(tokyo,havanna,17,2,wednesday,avianca,1514,1015).
-flight(beijing,tokyo,2,16,friday,emirates,1004,1097).
-flight(berlin,rome,9,16,monday,emirates,1130,40).
-flight(chicago,munich,4,1,friday,finnair,207,1937).
-flight(london,moscow,9,14,saturday,avianca,2397,871).
-flight(beijing,london,14,2,sunday,avianca,1029,269).
-flight(chicago,amsterdam,14,5,tuesday,finnair,2414,1065).
-flight(london,paris,19,5,saturday,continental,2026,1204).
-flight(london,paris,17,3,monday,delta,1580,526).
-flight(madrid,moscow,2,10,wednesday,lufthansa,417,1320).
-flight(istanbul,moscow,17,6,thursday,luxair,523,1604).
-flight(istanbul,tokyo,8,4,tuesday,luxair,1194,436).
-flight(istanbul,chicago,22,21,thursday,taca,395,683).
-flight(toronto,london,0,10,tuesday,continental,1332,1372).
-flight(beijing,amsterdam,0,10,sunday,spirit,2582,409).
-flight(tokyo,berlin,16,7,wednesday,spirit,382,1140).
-flight(beijing,moscow,4,11,thursday,continental,1592,1482).
-flight(barcelona,munich,8,10,thursday,spirit,2653,431).
-flight(rome,madrid,0,7,sunday,lufthansa,1341,667).
-flight(warsaw,amsterdam,12,16,saturday,taca,2573,623).
-flight(toronto,london,4,11,sunday,spirit,2558,838).
-flight(houston,tokyo,23,14,sunday,luxair,2545,496).
-flight(istanbul,munich,0,16,sunday,continental,2556,1225).
-flight(madrid,roatan,10,15,saturday,finnair,420,1701).
-flight(london,barcelona,5,2,wednesday,avianca,952,1546).
-flight(roatan,amsterdam,21,0,sunday,emirates,519,402).
-flight(tokyo,istanbul,1,8,wednesday,delta,2805,1380).
-flight(tegucigalpa,houston,5,3,wednesday,continental,2001,1853).
-flight(paris,barcelona,3,21,wednesday,avianca,2109,934).
-flight(madrid,paris,5,0,thursday,finnair,403,53).
-flight(moscow,amsterdam,16,9,thursday,united,159,135).
-flight(havanna,houston,14,2,friday,emirates,2069,1210).
-flight(toronto,moscow,4,6,tuesday,luxair,705,1856).
-flight(roatan,beijing,19,0,saturday,emirates,1554,1301).
-flight(paris,berlin,0,3,saturday,spirit,2354,1463).
-flight(tegucigalpa,havanna,9,3,wednesday,taca,243,1541).
-flight(houston,amsterdam,22,8,wednesday,continental,1848,1039).
-flight(amsterdam,tegucigalpa,1,2,monday,luxair,742,324).
-flight(roatan,berlin,4,1,wednesday,continental,677,1655).
-flight(moscow,washington,20,2,wednesday,spirit,2660,526).
-flight(rome,london,4,21,saturday,united,2863,665).
-flight(istanbul,london,7,22,monday,united,1820,1513).
-flight(houston,istanbul,4,19,friday,delta,655,1488).
-flight(toronto,london,9,6,monday,spirit,1650,1154).
-flight(havanna,toronto,5,10,saturday,luxair,2213,1453).
-flight(tegucigalpa,havanna,2,19,monday,taca,2538,1939).
-flight(havanna,paris,12,6,sunday,continental,2307,1000).
-flight(havanna,roatan,7,10,saturday,finnair,2780,1101).
-flight(paris,washington,20,14,monday,united,10,229).
-flight(toronto,paris,13,12,friday,finnair,21,1637).
-flight(houston,barcelona,1,22,wednesday,finnair,1907,968).
-flight(roatan,rome,2,5,tuesday,avianca,965,614).
-flight(toronto,amsterdam,10,8,monday,avianca,1920,1145).
-flight(toronto,amsterdam,0,8,wednesday,lufthansa,2995,247).
-flight(madrid,havanna,23,12,friday,taca,965,135).
-flight(houston,paris,22,4,thursday,luxair,1729,1025).
-flight(warsaw,madrid,12,2,sunday,spirit,159,1736).
-flight(havanna,amsterdam,6,13,friday,continental,448,1478).
-flight(paris,berlin,5,18,friday,taca,1890,943).
-flight(madrid,havanna,15,12,monday,united,1081,1881).
-flight(moscow,toronto,11,17,monday,lufthansa,2301,1716).
-flight(berlin,tegucigalpa,12,13,thursday,luxair,1639,305).
-flight(beijing,munich,0,11,monday,avianca,2873,1904).
-flight(london,beijing,12,22,saturday,spirit,1631,1789).
-flight(rome,paris,10,6,saturday,avianca,1626,196).
-flight(tokyo,toronto,3,13,wednesday,emirates,1989,1367).
-flight(amsterdam,washington,17,2,wednesday,taca,640,794).
-flight(washington,tegucigalpa,13,17,monday,continental,405,1727).
-flight(berlin,moscow,4,3,saturday,spirit,2238,1015).
-flight(london,tokyo,8,0,tuesday,avianca,714,1133).
-flight(havanna,london,5,23,wednesday,united,378,130).
-flight(munich,chicago,13,10,wednesday,avianca,2415,1383).
-flight(tokyo,toronto,13,21,monday,lufthansa,632,68).
-flight(roatan,paris,7,20,wednesday,avianca,1982,1866).
-flight(munich,havanna,23,8,wednesday,luxair,215,1821).
-flight(munich,chicago,2,17,thursday,lufthansa,2199,1914).
-flight(rome,london,11,6,wednesday,taca,851,1983).
-flight(istanbul,amsterdam,9,13,wednesday,united,1558,1910).
-flight(munich,berlin,15,16,saturday,spirit,2987,1269).
-flight(warsaw,tegucigalpa,13,12,thursday,emirates,1850,266).
-flight(london,berlin,19,16,tuesday,luxair,2938,1833).
-flight(moscow,washington,10,20,monday,emirates,2076,450).
-flight(rome,paris,3,10,sunday,luxair,2928,631).
-flight(barcelona,washington,19,4,sunday,finnair,807,49).
-flight(toronto,amsterdam,11,16,sunday,emirates,2257,1316).
-flight(houston,washington,7,23,monday,avianca,1432,918).
-flight(berlin,munich,9,18,friday,emirates,1884,1452).
-flight(paris,berlin,3,7,sunday,emirates,1567,563).
-flight(munich,amsterdam,23,7,friday,finnair,2288,1729).
-flight(tegucigalpa,paris,0,11,monday,delta,45,112).
-flight(london,munich,3,15,wednesday,continental,510,581).
-flight(tokyo,istanbul,23,22,monday,luxair,508,1179).
-flight(washington,roatan,17,3,friday,spirit,888,376).
-flight(tegucigalpa,washington,10,0,monday,luxair,2389,1472).
-flight(beijing,istanbul,2,22,thursday,spirit,483,916).
-flight(paris,moscow,14,5,thursday,emirates,657,1320).
-flight(chicago,warsaw,10,3,sunday,luxair,2317,447).
-flight(istanbul,tegucigalpa,4,21,tuesday,avianca,66,165).
-flight(toronto,roatan,11,4,tuesday,united,1594,1131).
-flight(warsaw,berlin,9,22,monday,finnair,2867,6).
-flight(toronto,barcelona,4,19,wednesday,spirit,2739,1357).
-flight(tegucigalpa,istanbul,15,6,monday,spirit,309,1714).
-flight(istanbul,munich,19,11,friday,lufthansa,439,1942).
-flight(washington,amsterdam,2,9,sunday,united,799,56).
-flight(berlin,amsterdam,14,16,tuesday,united,34,1063).
-flight(istanbul,chicago,6,2,wednesday,united,417,205).
-flight(washington,istanbul,7,5,sunday,avianca,1896,873).
-flight(moscow,houston,19,3,wednesday,taca,1079,1918).
-flight(chicago,tegucigalpa,4,2,monday,luxair,2534,1140).
-flight(munich,barcelona,8,19,friday,lufthansa,2571,412).
-flight(berlin,istanbul,9,17,tuesday,delta,2523,1645).
-flight(amsterdam,tegucigalpa,20,4,saturday,delta,1345,1186).
-flight(madrid,washington,14,23,wednesday,united,2409,912).
-flight(amsterdam,toronto,15,7,sunday,taca,2770,25).
-flight(tokyo,havanna,19,8,thursday,taca,1402,33).
-flight(tokyo,roatan,16,5,monday,emirates,1755,1452).
-flight(moscow,havanna,9,20,saturday,luxair,2906,1222).
-flight(washington,tokyo,12,15,sunday,luxair,2300,849).
-flight(toronto,munich,13,14,thursday,taca,1462,63).
-flight(amsterdam,roatan,9,13,tuesday,taca,2557,454).
-flight(barcelona,warsaw,17,0,tuesday,united,1957,73).
-flight(havanna,moscow,6,9,tuesday,delta,2833,266).
-flight(roatan,warsaw,23,0,sunday,emirates,1358,800).
-flight(istanbul,amsterdam,6,17,sunday,delta,2466,1470).
-flight(amsterdam,houston,21,0,tuesday,spirit,1073,692).
-flight(roatan,beijing,2,1,saturday,taca,562,352).
-flight(amsterdam,chicago,4,6,tuesday,continental,2289,1038).
-flight(havanna,amsterdam,1,23,friday,spirit,753,1515).
-flight(madrid,istanbul,5,20,wednesday,delta,405,1637).
-flight(moscow,london,21,4,friday,emirates,1007,1190).
-flight(madrid,chicago,14,19,tuesday,luxair,1615,1143).
-flight(berlin,rome,19,1,thursday,united,393,1466).
-flight(paris,toronto,16,12,sunday,delta,854,1386).
-flight(tokyo,havanna,21,18,thursday,continental,295,1588).
-flight(rome,toronto,10,19,saturday,avianca,1509,1707).
-flight(london,warsaw,9,3,friday,united,2490,1078).
-flight(toronto,madrid,3,21,sunday,spirit,552,150).
-flight(london,beijing,11,13,tuesday,emirates,679,78).
-flight(munich,houston,21,6,tuesday,luxair,2727,711).
-flight(beijing,houston,21,6,thursday,lufthansa,391,1452).
-flight(beijing,berlin,22,12,saturday,united,16,389).
-flight(roatan,washington,3,17,tuesday,emirates,2022,505).
-flight(moscow,warsaw,4,9,thursday,united,1707,448).
-flight(chicago,istanbul,17,23,monday,taca,1588,1024).
-flight(munich,barcelona,14,23,monday,united,1951,373).
-flight(amsterdam,beijing,13,11,wednesday,finnair,1910,3).
-flight(havanna,istanbul,1,5,wednesday,united,2896,970).
-flight(houston,havanna,23,0,tuesday,delta,2367,266).
-flight(madrid,toronto,4,9,sunday,united,621,1911).
-flight(munich,london,0,10,wednesday,united,1706,1923).
-flight(moscow,tegucigalpa,8,2,friday,lufthansa,2592,1894).
-flight(rome,washington,15,1,monday,taca,1972,1794).
-flight(chicago,toronto,8,10,tuesday,emirates,910,1085).
-flight(london,roatan,8,7,monday,luxair,403,1791).
-flight(washington,barcelona,13,4,friday,spirit,2145,672).
-flight(rome,beijing,0,16,friday,delta,513,1312).
-flight(paris,washington,22,4,sunday,emirates,2488,1165).
-flight(roatan,warsaw,9,10,thursday,luxair,1316,99).
-flight(berlin,chicago,0,16,tuesday,taca,373,66).
-flight(istanbul,berlin,17,5,saturday,spirit,1367,689).
-flight(washington,tokyo,0,3,sunday,united,942,1746).
-flight(tegucigalpa,roatan,16,3,thursday,continental,1440,1134).
-flight(tokyo,chicago,4,20,tuesday,emirates,2864,488).
-flight(havanna,amsterdam,1,10,sunday,emirates,1403,1924).
-flight(amsterdam,roatan,4,22,monday,avianca,533,1915).
-flight(rome,chicago,4,6,monday,finnair,2316,1629).
-flight(amsterdam,istanbul,17,1,monday,taca,1801,92).
-flight(toronto,berlin,6,20,wednesday,spirit,2027,773).
-flight(havanna,toronto,14,1,saturday,finnair,2588,1637).
-flight(amsterdam,munich,16,15,friday,united,502,1483).
-flight(beijing,berlin,9,0,tuesday,avianca,2313,1329).
-flight(amsterdam,barcelona,9,14,tuesday,luxair,2083,1927).
-flight(warsaw,london,2,18,monday,delta,2096,1256).
-flight(paris,havanna,14,22,monday,taca,2043,641).
-flight(paris,amsterdam,22,16,saturday,united,1786,1418).
-flight(paris,berlin,16,19,thursday,avianca,1665,1290).
-flight(roatan,washington,17,4,tuesday,avianca,1476,59).
-flight(havanna,london,7,1,wednesday,delta,865,1852).
-flight(barcelona,houston,20,6,sunday,lufthansa,2789,676).
-flight(warsaw,moscow,14,6,monday,united,2590,1424).
-flight(amsterdam,moscow,8,17,thursday,delta,1775,1465).
-flight(houston,barcelona,22,14,wednesday,spirit,487,1681).
-flight(madrid,toronto,0,8,saturday,united,2798,1722).
-flight(toronto,rome,17,4,tuesday,lufthansa,1679,1901).
-flight(istanbul,tegucigalpa,19,20,saturday,spirit,1988,1136).
-flight(houston,roatan,1,22,wednesday,emirates,2181,61).
-flight(madrid,paris,6,7,thursday,delta,243,1616).
-flight(tokyo,roatan,12,14,tuesday,delta,1006,1899).
-flight(havanna,houston,17,6,wednesday,continental,1150,1596).
-flight(chicago,roatan,19,21,friday,finnair,942,871).
-flight(washington,roatan,21,3,sunday,united,2092,1650).
-flight(warsaw,madrid,5,21,friday,spirit,1667,920).
-flight(chicago,toronto,6,7,tuesday,finnair,2080,626).
-flight(london,moscow,17,21,friday,delta,1277,1272).
-flight(beijing,tegucigalpa,0,21,friday,spirit,1730,1164).
-flight(paris,moscow,5,6,monday,continental,203,886).
-flight(moscow,amsterdam,21,0,friday,united,2766,735).
-flight(warsaw,london,5,6,saturday,continental,1740,336).
-flight(rome,istanbul,5,15,monday,united,588,1485).
-flight(istanbul,toronto,7,3,wednesday,lufthansa,1634,1927).
-flight(moscow,paris,5,2,monday,delta,1423,569).
-flight(istanbul,london,0,9,wednesday,avianca,1782,1739).
-flight(madrid,istanbul,12,21,sunday,continental,1186,1945).
-flight(moscow,washington,11,1,sunday,emirates,1929,1851).
-flight(havanna,tokyo,21,4,tuesday,avianca,751,624).
-flight(amsterdam,chicago,7,0,sunday,lufthansa,1938,1566).
-flight(berlin,istanbul,10,17,monday,luxair,2524,1624).
-flight(moscow,roatan,0,22,thursday,emirates,1522,215).
-flight(barcelona,washington,18,17,thursday,finnair,1597,1823).
-flight(beijing,london,20,3,wednesday,united,1243,518).
-flight(rome,berlin,21,3,saturday,avianca,2520,1264).
-flight(berlin,amsterdam,4,8,thursday,lufthansa,2581,528).
-flight(paris,munich,12,18,saturday,luxair,1773,370).
-flight(rome,tokyo,16,0,monday,emirates,198,1783).
-flight(moscow,tokyo,6,9,monday,luxair,2845,1097).
-flight(havanna,berlin,2,14,sunday,delta,1329,576).
-flight(madrid,beijing,23,3,tuesday,lufthansa,2488,194).
-flight(havanna,chicago,6,2,thursday,luxair,362,8).
-flight(madrid,barcelona,4,3,sunday,finnair,484,221).
-flight(rome,tokyo,13,20,wednesday,spirit,495,411).
-flight(havanna,moscow,20,9,tuesday,taca,1965,1177).
-flight(havanna,tegucigalpa,2,11,tuesday,luxair,157,1476).
-flight(havanna,madrid,18,22,thursday,united,1717,1553).
-flight(amsterdam,toronto,20,19,saturday,continental,1001,1343).
-flight(berlin,london,0,23,wednesday,continental,1624,735).
-flight(berlin,houston,6,14,wednesday,taca,1595,982).
-flight(tegucigalpa,paris,2,11,thursday,avianca,2880,1093).
-flight(tegucigalpa,toronto,2,16,sunday,luxair,658,1728).
-flight(tokyo,chicago,14,19,wednesday,united,0,1220).
-flight(barcelona,amsterdam,12,22,tuesday,delta,546,311).
-flight(rome,toronto,4,16,tuesday,finnair,188,1166).
-flight(munich,london,20,7,wednesday,finnair,2584,1260).
-flight(tokyo,london,5,0,tuesday,taca,2646,14).
-flight(houston,rome,16,9,thursday,united,984,950).
-flight(istanbul,roatan,17,14,tuesday,lufthansa,33,1478).
-flight(chicago,warsaw,9,13,monday,luxair,962,642).
-flight(paris,istanbul,0,16,friday,taca,615,409).
-flight(moscow,havanna,17,22,monday,continental,1992,485).
-flight(rome,tokyo,9,21,saturday,emirates,1807,1403).
-flight(tokyo,moscow,3,20,tuesday,emirates,2802,754).
-flight(barcelona,washington,21,3,monday,taca,765,271).
-flight(london,moscow,11,12,thursday,finnair,2100,494).
-flight(beijing,madrid,20,19,friday,taca,2731,301).
-flight(munich,tokyo,20,21,wednesday,luxair,218,1474).
-flight(amsterdam,toronto,0,8,saturday,spirit,1043,1322).
-flight(amsterdam,moscow,1,3,friday,united,783,596).
-flight(warsaw,paris,10,4,thursday,delta,1827,1814).
-flight(houston,madrid,19,23,friday,avianca,22,1776).
-flight(paris,chicago,19,11,saturday,delta,1797,1407).
-flight(barcelona,london,16,6,thursday,lufthansa,1154,106).
-flight(warsaw,tegucigalpa,14,0,tuesday,finnair,2714,485).
-flight(tokyo,havanna,19,4,friday,avianca,1751,1700).
-flight(houston,paris,9,11,tuesday,continental,1449,504).
-flight(madrid,warsaw,3,8,thursday,united,1672,1147).
-flight(madrid,paris,6,21,wednesday,lufthansa,1197,1412).
-flight(chicago,roatan,11,17,sunday,united,71,338).
-flight(chicago,tokyo,13,18,saturday,spirit,2426,237).
-flight(rome,berlin,8,0,sunday,continental,538,1280).
-flight(amsterdam,houston,19,23,monday,avianca,2549,1969).
-flight(chicago,havanna,6,1,sunday,emirates,2324,1774).
-flight(moscow,warsaw,2,12,tuesday,finnair,641,89).
-flight(rome,toronto,8,23,wednesday,united,2837,755).
-flight(amsterdam,havanna,12,16,sunday,spirit,2771,1339).
-flight(berlin,madrid,8,17,tuesday,luxair,880,822).
-flight(toronto,moscow,18,9,friday,avianca,432,41).
-flight(amsterdam,munich,17,21,thursday,luxair,1754,1591).
-flight(warsaw,moscow,11,13,tuesday,continental,2745,327).
-flight(madrid,havanna,19,10,wednesday,finnair,2250,190).
-flight(munich,berlin,2,11,tuesday,continental,2792,1953).
-flight(munich,washington,2,7,sunday,taca,1383,1182).
-flight(roatan,washington,17,20,friday,luxair,2527,1022).
-flight(istanbul,washington,15,14,thursday,luxair,2283,451).
-flight(madrid,amsterdam,22,19,saturday,taca,2895,1445).
-flight(washington,tokyo,16,11,thursday,avianca,2609,902).
-flight(houston,havanna,11,9,thursday,taca,1124,115).
-flight(istanbul,toronto,3,14,thursday,luxair,2907,156).
-flight(havanna,warsaw,8,3,sunday,united,2869,486).
-flight(moscow,chicago,21,18,thursday,delta,2252,858).
-flight(beijing,munich,10,17,monday,luxair,2472,1117).
-flight(houston,barcelona,22,23,monday,taca,1675,897).
-flight(tokyo,london,19,9,thursday,emirates,332,522).
-flight(chicago,washington,22,3,wednesday,emirates,2339,1412).
-flight(warsaw,tokyo,6,3,tuesday,emirates,2452,1284).
-flight(munich,chicago,1,18,monday,avianca,1468,1567).
-flight(amsterdam,london,17,2,sunday,delta,1795,1276).
-flight(rome,warsaw,23,18,friday,continental,1284,988).
-flight(amsterdam,london,18,14,sunday,spirit,851,689).
-flight(rome,paris,10,19,wednesday,emirates,2777,1969).
-flight(madrid,houston,14,7,tuesday,delta,509,1695).
-flight(warsaw,houston,0,4,saturday,delta,2945,409).
-flight(paris,moscow,0,20,saturday,delta,1922,470).
-flight(istanbul,tegucigalpa,0,18,tuesday,emirates,1783,252).
-flight(istanbul,havanna,15,11,tuesday,united,2150,1387).
-flight(warsaw,washington,8,14,saturday,emirates,731,842).
-flight(madrid,tokyo,22,4,saturday,lufthansa,1857,1058).
-flight(berlin,chicago,17,12,monday,taca,2921,393).
-flight(toronto,istanbul,17,6,friday,lufthansa,1910,1175).
-flight(tegucigalpa,rome,16,17,sunday,luxair,293,1719).
-flight(washington,berlin,4,9,friday,delta,1725,486).
-flight(warsaw,moscow,3,9,monday,spirit,63,1437).
-flight(washington,houston,21,9,wednesday,delta,2385,1457).
-flight(berlin,beijing,15,14,wednesday,emirates,1652,111).
-flight(moscow,houston,17,14,tuesday,avianca,373,1364).
-flight(beijing,rome,23,15,tuesday,lufthansa,105,1451).
-flight(barcelona,warsaw,6,20,thursday,emirates,470,17).
-flight(havanna,roatan,23,5,thursday,lufthansa,1854,1156).
-flight(houston,rome,3,12,monday,finnair,83,464).
-flight(roatan,istanbul,13,9,monday,finnair,103,1387).
-flight(paris,amsterdam,15,1,saturday,lufthansa,2979,963).
-flight(istanbul,roatan,6,22,friday,taca,904,119).
-flight(tegucigalpa,munich,3,23,thursday,taca,1054,1151).
-flight(barcelona,moscow,8,3,tuesday,taca,1321,687).
-flight(amsterdam,paris,20,8,monday,luxair,1576,715).
-flight(toronto,warsaw,19,3,tuesday,taca,2112,510).
-flight(istanbul,paris,3,4,friday,lufthansa,2874,526).
-flight(havanna,berlin,11,18,wednesday,luxair,2736,1656).
-flight(toronto,madrid,1,22,friday,spirit,720,127).
-flight(warsaw,madrid,3,10,tuesday,taca,1918,1596).
-flight(munich,barcelona,20,13,thursday,luxair,148,1648).
-flight(beijing,amsterdam,18,8,saturday,united,145,1151).
-flight(havanna,warsaw,3,18,monday,spirit,2460,84).
-flight(tegucigalpa,warsaw,11,23,sunday,emirates,457,1834).
-flight(rome,istanbul,12,16,monday,united,837,277).
-flight(paris,amsterdam,6,0,saturday,spirit,439,1697).
-flight(roatan,havanna,16,0,saturday,luxair,340,1148).
-flight(tokyo,madrid,16,1,saturday,luxair,1796,759).
-flight(moscow,washington,15,21,sunday,spirit,1636,1).
-flight(washington,toronto,3,10,sunday,luxair,2723,1153).
-flight(moscow,houston,8,5,tuesday,delta,9,1267).
-flight(toronto,paris,9,2,monday,avianca,1390,1091).
-flight(paris,tegucigalpa,22,13,saturday,delta,1124,1906).
-flight(chicago,beijing,13,1,wednesday,spirit,1833,1365).
-flight(havanna,washington,16,10,thursday,avianca,6,1358).
-flight(berlin,rome,15,21,tuesday,finnair,2178,1306).
-flight(paris,tegucigalpa,11,17,sunday,avianca,1728,150).
-flight(tokyo,london,15,17,friday,continental,2696,32).
-flight(barcelona,beijing,17,13,thursday,avianca,2374,1104).
-flight(moscow,tegucigalpa,7,17,monday,lufthansa,587,1905).
-flight(rome,london,0,4,wednesday,avianca,433,1917).
-flight(tegucigalpa,barcelona,13,1,wednesday,avianca,2437,1301).
-flight(amsterdam,munich,16,4,thursday,united,237,1373).
-flight(roatan,toronto,5,22,sunday,avianca,2775,838).
-flight(paris,houston,8,6,thursday,emirates,1227,205).
-flight(london,paris,12,6,tuesday,delta,768,1703).
-flight(london,toronto,14,19,tuesday,delta,1886,1041).
-flight(houston,rome,6,3,sunday,united,2242,465).
-flight(munich,tokyo,8,9,friday,avianca,292,944).
-flight(madrid,tokyo,7,14,monday,avianca,1803,876).
-flight(washington,chicago,21,4,tuesday,finnair,2837,259).
-flight(washington,moscow,22,8,friday,finnair,228,1465).
-flight(warsaw,houston,21,0,sunday,emirates,2436,1330).
-flight(munich,houston,4,8,friday,avianca,1861,1865).
-flight(tegucigalpa,havanna,12,22,monday,spirit,2402,467).
-flight(tegucigalpa,washington,7,14,tuesday,continental,1462,1068).
-flight(tokyo,paris,14,10,wednesday,avianca,2668,498).
-flight(toronto,havanna,7,14,saturday,luxair,859,631).
-flight(beijing,roatan,4,16,sunday,continental,1317,738).
-flight(moscow,istanbul,8,9,wednesday,spirit,1684,770).
-flight(tokyo,amsterdam,7,1,sunday,continental,2082,1401).
-flight(barcelona,washington,6,5,thursday,continental,645,1927).
-flight(houston,washington,6,15,friday,spirit,996,1583).
-flight(paris,havanna,0,18,friday,united,2302,1074).
-flight(toronto,london,3,10,friday,emirates,2568,1917).
-flight(barcelona,munich,17,1,tuesday,continental,1901,1560).
-flight(moscow,washington,1,13,saturday,luxair,288,1907).
-flight(berlin,havanna,20,12,sunday,taca,375,80).
-flight(rome,beijing,16,7,tuesday,emirates,555,1447).
-flight(roatan,amsterdam,16,12,wednesday,spirit,1818,496).
-flight(houston,tegucigalpa,19,16,monday,avianca,1521,157).
-flight(houston,madrid,2,1,saturday,taca,2554,548).
-flight(istanbul,london,13,17,tuesday,taca,1715,1750).
-flight(berlin,munich,2,9,sunday,lufthansa,1617,1923).
-flight(london,beijing,19,17,tuesday,spirit,909,702).
-flight(berlin,moscow,21,15,monday,united,2263,1766).
-flight(madrid,moscow,16,21,thursday,emirates,2689,317).
-flight(moscow,houston,18,5,saturday,avianca,565,826).
+flight(amsterdam, houston, 15, 9, friday, luxair, 455, 1639).
+flight(munich, madrid, 12, 13, friday, luxair, 1524, 967).
+flight(havanna, roatan, 12, 4, thursday, emirates, 1944, 799).
+flight(istanbul, undefined, 15, 2, sunday, delta, 2026, 979).
+flight(paris, moscow, 15, 23, tuesday, lufthansa, 326, 1298).
+flight(paris, moscow, 2, 4, saturday, spirit, 757, 1805).
+flight(amsterdam, havanna, 19, 21, monday, avianca, 1267, 1594).
+flight(chicago, houston, 17, 13, monday, lufthansa, 965, 1028).
+flight(houston, munich, 2, 19, thursday, avianca, 1698, 357).
+flight(toronto, chicago, 14, 21, wednesday, spirit, 1102, 158).
+flight(roatan, warsaw, 22, 7, saturday, taca, 159, 527).
+flight(roatan, paris, 15, 21, sunday, delta, 2613, 487).
+flight(houston, paris, 12, 2, thursday, emirates, 1839, 589).
+flight(amsterdam, houston, 16, 9, monday, lufthansa, 172, 938).
+flight(istanbul, tokyo, 1, 14, friday, lufthansa, 2369, 100).
+flight(houston, moscow, 1, 2, wednesday, taca, 563, 899).
+flight(tegucigalpa, berlin, 17, 23, tuesday, finnair, 38, 1267).
+flight(roatan, warsaw, 1, 17, friday, avianca, 274, 609).
+flight(roatan, paris, 22, 4, thursday, taca, 2313, 512).
+flight(paris, warsaw, 6, 18, sunday, continental, 2600, 219).
+flight(chicago, london, 11, 2, saturday, united, 1902, 1996).
+flight(beijing, roatan, 1, 19, sunday, luxair, 2985, 1206).
+flight(tegucigalpa, washington, 21, 16, monday, lufthansa, 511, 165).
+flight(chicago, paris, 2, 17, saturday, emirates, 2514, 27).
+flight(washington, berlin, 21, 14, friday, taca, 134, 1055).
+flight(madrid, tokyo, 14, 1, tuesday, united, 847, 1494).
+flight(washington, rome, 14, 5, monday, taca, 2843, 1284).
+flight(houston, roatan, 14, 10, saturday, continental, 631, 764).
+flight(istanbul, undefined, 4, 10, tuesday, spirit, 1531, 529).
+flight(roatan, munich, 13, 0, saturday, luxair, 2974, 1764).
+flight(tegucigalpa, washington, 14, 12, tuesday, delta, 411, 1675).
+flight(barcelona, berlin, 22, 13, thursday, delta, 2305, 1159).
+flight(toronto, amsterdam, 18, 14, sunday, continental, 1124, 920).
+flight(berlin, amsterdam, 13, 20, thursday, united, 1216, 1102).
+flight(berlin, havanna, 10, 5, friday, continental, 1711, 24).
+flight(berlin, beijing, 12, 18, saturday, emirates, 104, 431).
+flight(roatan, warsaw, 6, 14, friday, finnair, 2781, 749).
+flight(roatan, london, 19, 5, monday, finnair, 1950, 192).
+flight(barcelona, tegucigalpa, 1, 10, thursday, spirit, 616, 1954).
+flight(chicago, london, 17, 4, wednesday, finnair, 1156, 1489).
+flight(berlin, beijing, 22, 0, friday, taca, 2907, 1963).
+flight(amsterdam, rome, 1, 0, friday, luxair, 2706, 1045).
+flight(havanna, paris, 13, 18, friday, luxair, 2035, 1869).
+flight(istanbul, tegucigalpa, 18, 5, wednesday, finnair, 1046, 700).
+flight(moscow, undefined, 14, 8, wednesday, spirit, 2295, 195).
+flight(beijing, chicago, 22, 23, wednesday, finnair, 1195, 1808).
+flight(paris, warsaw, 20, 17, thursday, emirates, 2805, 1729).
+flight(barcelona, berlin, 6, 0, monday, avianca, 2097, 16).
+flight(houston, paris, 17, 14, sunday, lufthansa, 2666, 1982).
+flight(moscow, warsaw, 12, 18, saturday, avianca, 1471, 813).
+flight(paris, munich, 19, 15, monday, delta, 1866, 525).
+flight(tegucigalpa, washington, 18, 5, thursday, lufthansa, 1978, 196).
+flight(rome, london, 3, 20, friday, avianca, 1017, 1157).
+flight(berlin, havanna, 11, 18, saturday, united, 2117, 940).
+flight(chicago, munich, 19, 16, saturday, finnair, 1676, 395).
+flight(toronto, chicago, 10, 1, monday, delta, 714, 1298).
+flight(berlin, havanna, 22, 11, saturday, continental, 468, 665).
+flight(washington, beijing, 21, 5, friday, lufthansa, 1914, 1355).
+flight(rome, london, 2, 18, wednesday, spirit, 1620, 1743).
+flight(moscow, istanbul, 22, 10, thursday, luxair, 543, 144).
+flight(tokyo, toronto, 12, 4, wednesday, avianca, 2247, 1888).
+flight(paris, munich, 7, 23, thursday, luxair, 1780, 1709).
+flight(toronto, beijing, 22, 16, thursday, luxair, 202, 5).
+flight(rome, london, 20, 0, saturday, luxair, 1955, 981).
+flight(munich, warsaw, 1, 6, friday, avianca, 2372, 327).
+flight(beijing, rome, 16, 13, thursday, avianca, 2309, 674).
+flight(havanna, chicago, 15, 12, monday, delta, 1559, 1331).
+flight(washington, beijing, 20, 15, tuesday, united, 2487, 1611).
+flight(amsterdam, houston, 14, 7, friday, emirates, 609, 749).
+flight(barcelona, berlin, 22, 3, wednesday, united, 1369, 730).
+flight(istanbul, tegucigalpa, 15, 18, wednesday, spirit, 1864, 921).
+flight(london, istanbul, 0, 6, monday, finnair, 404, 1258).
+flight(havanna, london, 3, 16, friday, emirates, 1992, 1304).
+flight(rome, chicago, 6, 19, monday, finnair, 2800, 676).
+flight(barcelona, berlin, 23, 4, tuesday, spirit, 2667, 1860).
+flight(munich, warsaw, 17, 12, saturday, luxair, 2666, 1005).
+flight(roatan, warsaw, 6, 22, saturday, taca, 1861, 1353).
+flight(havanna, london, 18, 10, saturday, emirates, 2178, 850).
+flight(washington, amsterdam, 9, 3, sunday, finnair, 1226, 82).
+flight(berlin, havanna, 5, 2, monday, spirit, 2264, 1236).
+flight(istanbul, madrid, 3, 11, sunday, emirates, 2835, 668).
+flight(tokyo, beijing, 9, 21, tuesday, finnair, 2194, 485).
+flight(berlin, toronto, 18, 7, monday, emirates, 898, 1458).
+flight(chicago, london, 8, 6, sunday, emirates, 2564, 783).
+flight(chicago, roatan, 17, 2, monday, united, 1345, 392).
+flight(london, istanbul, 21, 0, sunday, luxair, 153, 1811).
+flight(moscow, barcelona, 16, 12, tuesday, delta, 1618, 1730).
+flight(madrid, tegucigalpa, 17, 7, tuesday, united, 2730, 1580).
+flight(madrid, undefined, 20, 0, monday, emirates, 577, 1684).
+flight(berlin, rome, 12, 18, wednesday, taca, 212, 437).
+flight(london, munich, 15, 10, tuesday, avianca, 2221, 1376).
+flight(moscow, warsaw, 20, 14, saturday, continental, 894, 745).
+flight(tegucigalpa, berlin, 15, 6, tuesday, finnair, 2689, 524).
+flight(roatan, london, 10, 11, friday, avianca, 2217, 279).
+flight(havanna, houston, 0, 20, friday, finnair, 398, 57).
+flight(tegucigalpa, washington, 18, 22, monday, lufthansa, 361, 1805).
+flight(tegucigalpa, toronto, 18, 6, thursday, lufthansa, 1083, 614).
+flight(london, munich, 14, 4, monday, lufthansa, 2692, 611).
+flight(munich, moscow, 3, 2, saturday, spirit, 1447, 349).
+flight(amsterdam, rome, 7, 9, saturday, taca, 1391, 1874).
+flight(toronto, havanna, 15, 3, thursday, spirit, 408, 1437).
+flight(chicago, houston, 17, 1, sunday, spirit, 561, 1621).
+flight(toronto, beijing, 9, 0, sunday, avianca, 1836, 1135).
+flight(roatan, warsaw, 8, 23, saturday, avianca, 827, 1175).
+flight(warsaw, barcelona, 18, 17, thursday, spirit, 172, 1238).
+flight(havanna, houston, 13, 20, tuesday, finnair, 543, 90).
+flight(tokyo, washington, 21, 10, thursday, finnair, 1163, 894).
+flight(houston, munich, 4, 23, sunday, avianca, 1054, 330).
+flight(washington, beijing, 17, 8, wednesday, lufthansa, 1422, 1336).
+flight(munich, warsaw, 23, 22, tuesday, delta, 507, 1183).
+flight(rome, roatan, 21, 15, monday, united, 2505, 301).
+flight(beijing, houston, 13, 11, saturday, spirit, 1464, 864).
+flight(madrid, barcelona, 13, 21, sunday, spirit, 1287, 640).
+flight(tegucigalpa, berlin, 20, 8, saturday, emirates, 2916, 136).
+flight(warsaw, barcelona, 19, 15, wednesday, delta, 1958, 831).
+flight(barcelona, undefined, 14, 3, tuesday, finnair, 259, 812).
+flight(washington, toronto, 12, 21, friday, delta, 1575, 551).
+flight(warsaw, tegucigalpa, 0, 4, wednesday, finnair, 597, 1271).
+flight(toronto, rome, 23, 22, thursday, taca, 1233, 1577).
+flight(washington, toronto, 8, 10, monday, spirit, 2503, 1600).
+flight(rome, chicago, 4, 16, saturday, luxair, 1818, 568).
+flight(chicago, london, 17, 21, friday, united, 2893, 397).
+flight(tegucigalpa, berlin, 14, 21, thursday, spirit, 2903, 73).
+flight(toronto, havanna, 23, 13, thursday, luxair, 1483, 710).
+flight(istanbul, undefined, 20, 0, friday, united, 1630, 704).
+flight(london, moscow, 3, 15, thursday, continental, 2134, 1296).
+flight(tokyo, amsterdam, 6, 13, tuesday, delta, 1555, 1631).
+flight(toronto, chicago, 22, 14, thursday, united, 1036, 1180).
+flight(warsaw, tegucigalpa, 6, 20, thursday, united, 271, 1612).
+flight(roatan, paris, 22, 17, tuesday, taca, 2261, 1661).
+flight(barcelona, tokyo, 2, 3, friday, delta, 695, 755).
+flight(rome, roatan, 12, 13, saturday, emirates, 148, 408).
+flight(warsaw, madrid, 19, 13, thursday, spirit, 2778, 537).
+flight(chicago, london, 19, 18, sunday, finnair, 1180, 1978).
+flight(chicago, paris, 12, 23, wednesday, united, 501, 469).
+flight(rome, houston, 20, 8, sunday, finnair, 2296, 89).
+flight(paris, moscow, 4, 9, sunday, emirates, 310, 1938).
+flight(tokyo, berlin, 0, 19, sunday, emirates, 134, 1551).
+flight(london, warsaw, 22, 7, tuesday, taca, 1802, 598).
+flight(houston, london, 1, 8, friday, delta, 2592, 1639).
+flight(berlin, toronto, 22, 17, saturday, spirit, 2741, 1253).
+flight(paris, moscow, 4, 19, tuesday, emirates, 1910, 1340).
+flight(warsaw, tegucigalpa, 7, 3, saturday, spirit, 1127, 1826).
+flight(washington, rome, 5, 4, wednesday, luxair, 2277, 1452).
+flight(chicago, roatan, 8, 17, friday, spirit, 277, 1305).
+flight(roatan, munich, 10, 1, friday, finnair, 1214, 40).
+flight(warsaw, madrid, 1, 14, monday, delta, 368, 263).
+flight(istanbul, tokyo, 0, 22, thursday, finnair, 1783, 1812).
+flight(tegucigalpa, tokyo, 20, 10, thursday, delta, 1843, 1066).
+flight(barcelona, tegucigalpa, 5, 17, thursday, delta, 2444, 1853).
+flight(tegucigalpa, amsterdam, 23, 20, sunday, united, 1508, 983).
+flight(roatan, london, 0, 23, friday, taca, 674, 1644).
+flight(tegucigalpa, toronto, 17, 19, wednesday, avianca, 2680, 639).
+flight(roatan, paris, 2, 8, monday, united, 2904, 951).
+flight(tegucigalpa, washington, 5, 3, sunday, finnair, 2139, 901).
+flight(washington, toronto, 3, 7, thursday, spirit, 2244, 1566).
+flight(moscow, warsaw, 21, 11, monday, taca, 378, 1189).
+flight(chicago, houston, 7, 2, wednesday, lufthansa, 1081, 611).
+flight(toronto, rome, 7, 3, saturday, delta, 183, 477).
+flight(roatan, london, 17, 5, tuesday, spirit, 86, 165).
+flight(havanna, london, 8, 7, wednesday, continental, 273, 146).
+flight(toronto, chicago, 17, 4, thursday, lufthansa, 150, 1754).
+flight(amsterdam, rome, 0, 3, thursday, emirates, 2891, 83).
+flight(tegucigalpa, amsterdam, 16, 17, friday, luxair, 1714, 55).
+flight(madrid, undefined, 11, 23, saturday, taca, 356, 807).
+flight(paris, moscow, 16, 6, wednesday, spirit, 771, 267).
+flight(houston, london, 13, 8, sunday, spirit, 2869, 609).
+flight(tegucigalpa, toronto, 21, 3, tuesday, united, 2097, 737).
+flight(tokyo, beijing, 7, 1, friday, lufthansa, 2792, 220).
+flight(washington, rome, 0, 13, friday, finnair, 1326, 1749).
+flight(tegucigalpa, tokyo, 13, 11, sunday, taca, 1041, 527).
+flight(barcelona, undefined, 2, 19, monday, finnair, 2843, 971).
+flight(roatan, moscow, 15, 10, monday, continental, 551, 397).
+flight(moscow, barcelona, 21, 14, saturday, lufthansa, 282, 1443).
+flight(berlin, havanna, 2, 0, saturday, spirit, 589, 242).
+flight(roatan, london, 6, 3, wednesday, luxair, 285, 1063).
+flight(washington, toronto, 0, 4, saturday, finnair, 2190, 1840).
+flight(amsterdam, rome, 12, 10, wednesday, united, 1425, 426).
+flight(madrid, tegucigalpa, 3, 2, saturday, spirit, 2208, 1717).
+flight(moscow, istanbul, 17, 4, saturday, finnair, 1027, 489).
+flight(warsaw, tegucigalpa, 10, 5, wednesday, lufthansa, 907, 1367).
+flight(moscow, warsaw, 16, 8, thursday, delta, 1299, 1742).
+flight(warsaw, tegucigalpa, 13, 6, sunday, lufthansa, 960, 960).
+flight(roatan, munich, 4, 2, friday, lufthansa, 1494, 416).
+flight(madrid, washington, 7, 10, monday, lufthansa, 65, 1868).
+flight(munich, barcelona, 20, 14, sunday, lufthansa, 781, 1734).
+flight(madrid, washington, 14, 1, saturday, luxair, 1548, 583).
+flight(houston, moscow, 1, 6, friday, luxair, 252, 376).
+flight(roatan, warsaw, 11, 3, thursday, finnair, 513, 649).
+flight(warsaw, barcelona, 10, 8, saturday, avianca, 1723, 1334).
+flight(munich, moscow, 16, 11, sunday, luxair, 687, 1882).
+flight(berlin, beijing, 3, 19, saturday, finnair, 1256, 1154).
+flight(chicago, london, 21, 6, friday, luxair, 2078, 1777).
+flight(havanna, paris, 19, 21, tuesday, lufthansa, 1215, 1614).
+flight(houston, roatan, 21, 7, tuesday, spirit, 2962, 470).
+flight(chicago, munich, 5, 9, monday, finnair, 1147, 557).
+flight(houston, moscow, 16, 23, saturday, taca, 1700, 959).
+flight(warsaw, istanbul, 21, 18, thursday, continental, 381, 1025).
+flight(houston, moscow, 14, 7, sunday, avianca, 1664, 133).
+flight(barcelona, tegucigalpa, 6, 23, saturday, taca, 1460, 689).
+flight(tokyo, berlin, 7, 14, tuesday, united, 2818, 455).
+flight(madrid, barcelona, 21, 13, saturday, avianca, 2740, 1686).
+flight(barcelona, washington, 14, 1, friday, avianca, 526, 1395).
+flight(warsaw, undefined, 13, 15, thursday, finnair, 1584, 509).
+flight(barcelona, berlin, 8, 10, monday, avianca, 1327, 1816).
+flight(washington, berlin, 9, 14, sunday, delta, 532, 562).
+flight(moscow, madrid, 14, 7, sunday, taca, 787, 201).
+flight(london, moscow, 17, 21, monday, delta, 2893, 475).
+flight(havanna, london, 12, 9, sunday, luxair, 1727, 984).
+flight(munich, warsaw, 16, 23, tuesday, united, 94, 388).
+flight(havanna, chicago, 7, 15, saturday, avianca, 2987, 1705).
+flight(moscow, istanbul, 18, 22, tuesday, united, 689, 86).
+flight(tegucigalpa, amsterdam, 19, 15, sunday, emirates, 1407, 338).
+flight(beijing, chicago, 11, 6, monday, lufthansa, 1242, 964).
+flight(moscow, undefined, 14, 8, wednesday, lufthansa, 2445, 1216).
+flight(paris, moscow, 15, 9, monday, lufthansa, 631, 1659).
+flight(berlin, beijing, 2, 16, friday, emirates, 2240, 952).
+flight(munich, moscow, 3, 20, thursday, luxair, 2516, 133).
+flight(toronto, chicago, 10, 20, wednesday, emirates, 1432, 1813).
+flight(beijing, roatan, 11, 1, friday, continental, 1368, 1104).
+flight(tokyo, berlin, 20, 6, monday, spirit, 1111, 203).
+flight(madrid, washington, 9, 8, thursday, finnair, 2200, 958).
+flight(tegucigalpa, toronto, 23, 6, monday, avianca, 1502, 572).
+flight(munich, moscow, 16, 15, saturday, continental, 323, 1785).
+flight(paris, moscow, 4, 15, wednesday, emirates, 2265, 1707).
+flight(paris, madrid, 9, 0, friday, delta, 1439, 1044).
+flight(havanna, houston, 16, 23, wednesday, united, 98, 1621).
+flight(chicago, london, 7, 14, tuesday, spirit, 362, 73).
+flight(tegucigalpa, tokyo, 4, 22, saturday, luxair, 837, 1692).
+flight(paris, warsaw, 4, 17, wednesday, emirates, 962, 744).
+flight(london, munich, 7, 17, wednesday, spirit, 2279, 1780).
+flight(beijing, roatan, 5, 8, saturday, taca, 486, 1790).
+flight(paris, istanbul, 11, 19, tuesday, continental, 2940, 1331).
+flight(chicago, paris, 17, 21, monday, finnair, 11, 1187).
+flight(rome, roatan, 15, 21, friday, finnair, 1527, 715).
+flight(paris, madrid, 17, 14, sunday, avianca, 1824, 773).
+flight(houston, munich, 13, 2, wednesday, lufthansa, 2697, 1380).
+flight(barcelona, tokyo, 8, 14, friday, emirates, 355, 1437).
+flight(toronto, beijing, 22, 5, friday, continental, 547, 1834).
+flight(barcelona, tokyo, 0, 14, monday, luxair, 1502, 697).
+flight(tegucigalpa, berlin, 23, 4, tuesday, spirit, 2391, 1375).
+flight(tegucigalpa, tokyo, 16, 8, sunday, continental, 1578, 941).
+flight(amsterdam, chicago, 11, 9, friday, taca, 2792, 1383).
+flight(beijing, chicago, 12, 18, thursday, avianca, 273, 425).
+flight(havanna, paris, 8, 4, monday, united, 1783, 1630).
+flight(beijing, roatan, 22, 7, sunday, spirit, 1515, 924).
+flight(toronto, rome, 9, 23, tuesday, continental, 1189, 413).
+flight(toronto, havanna, 19, 20, friday, united, 609, 1377).
+flight(moscow, warsaw, 2, 0, sunday, finnair, 2047, 636).
+flight(tegucigalpa, berlin, 9, 16, tuesday, taca, 1964, 36).
+flight(berlin, amsterdam, 16, 21, monday, avianca, 2408, 840).
+flight(beijing, havanna, 23, 9, saturday, avianca, 627, 102).
+flight(chicago, houston, 8, 13, wednesday, delta, 2927, 952).
+flight(chicago, london, 1, 2, thursday, avianca, 1054, 170).
+flight(chicago, paris, 7, 5, friday, united, 361, 1240).
+flight(roatan, moscow, 4, 3, wednesday, united, 284, 1960).
+flight(tegucigalpa, amsterdam, 22, 8, wednesday, lufthansa, 2222, 877).
+flight(paris, munich, 17, 1, monday, finnair, 112, 1089).
+flight(madrid, washington, 23, 6, monday, lufthansa, 934, 1607).
+flight(warsaw, madrid, 11, 7, friday, emirates, 1987, 98).
+flight(houston, paris, 13, 1, tuesday, lufthansa, 832, 1671).
+flight(london, munich, 8, 15, tuesday, luxair, 213, 48).
+flight(barcelona, tokyo, 18, 8, wednesday, finnair, 2208, 548).
+flight(munich, warsaw, 20, 5, thursday, finnair, 1186, 998).
+flight(madrid, washington, 7, 10, thursday, emirates, 1306, 1761).
+flight(munich, moscow, 22, 21, saturday, avianca, 2241, 22).
+flight(chicago, houston, 20, 19, monday, luxair, 1945, 1798).
+flight(madrid, barcelona, 21, 14, monday, finnair, 2282, 390).
+flight(roatan, london, 8, 14, wednesday, luxair, 2200, 1796).
+flight(barcelona, washington, 2, 10, wednesday, taca, 2577, 509).
+flight(london, munich, 23, 21, thursday, united, 1135, 309).
+flight(tokyo, toronto, 14, 19, monday, lufthansa, 636, 1630).
+flight(paris, madrid, 13, 23, monday, taca, 822, 1868).
+flight(rome, chicago, 21, 0, saturday, delta, 1752, 789).
+flight(toronto, havanna, 8, 13, tuesday, lufthansa, 658, 403).
+flight(london, munich, 1, 15, sunday, continental, 2127, 1064).
+flight(tegucigalpa, amsterdam, 16, 12, wednesday, lufthansa, 2554, 654).
+flight(toronto, havanna, 8, 9, sunday, avianca, 812, 1842).
+flight(barcelona, washington, 9, 2, saturday, taca, 1498, 628).
+flight(tegucigalpa, tokyo, 8, 21, monday, finnair, 596, 1983).
+flight(washington, berlin, 1, 0, thursday, continental, 66, 668).
+flight(paris, moscow, 2, 12, monday, spirit, 2249, 975).
+flight(munich, istanbul, 17, 5, tuesday, finnair, 1651, 273).
+flight(amsterdam, beijing, 11, 10, sunday, lufthansa, 569, 1685).
+flight(havanna, london, 20, 13, wednesday, lufthansa, 2993, 187).
+flight(munich, warsaw, 2, 13, saturday, continental, 2663, 87).
+flight(tokyo, washington, 18, 17, tuesday, finnair, 758, 1358).
+flight(madrid, barcelona, 18, 10, thursday, avianca, 435, 129).
+flight(rome, chicago, 12, 17, tuesday, luxair, 1886, 109).
+flight(rome, chicago, 15, 22, wednesday, avianca, 2140, 1429).
+flight(madrid, undefined, 23, 0, thursday, spirit, 1956, 244).
+flight(beijing, chicago, 19, 13, saturday, emirates, 472, 1883).
+flight(paris, istanbul, 0, 14, tuesday, emirates, 2160, 1514).
+flight(washington, rome, 10, 20, friday, continental, 1745, 133).
+flight(roatan, paris, 7, 13, thursday, taca, 2256, 1339).
+flight(warsaw, undefined, 12, 9, friday, luxair, 1995, 693).
+flight(roatan, warsaw, 9, 23, thursday, united, 1936, 1331).
+flight(beijing, roatan, 10, 12, wednesday, taca, 1516, 47).
+flight(barcelona, undefined, 21, 7, thursday, spirit, 2085, 155).
+flight(tokyo, amsterdam, 0, 3, saturday, united, 1762, 1336).
+flight(moscow, madrid, 21, 16, tuesday, lufthansa, 760, 83).
+flight(istanbul, madrid, 16, 11, friday, united, 830, 666).
+flight(amsterdam, chicago, 9, 0, monday, taca, 1418, 528).
+flight(washington, beijing, 1, 18, tuesday, spirit, 2841, 550).
+flight(amsterdam, beijing, 8, 19, sunday, taca, 232, 643).
+flight(berlin, beijing, 11, 17, friday, continental, 2713, 1052).
+flight(london, moscow, 8, 11, wednesday, spirit, 1214, 391).
+flight(barcelona, tegucigalpa, 0, 2, monday, emirates, 1885, 408).
+flight(berlin, havanna, 19, 3, sunday, lufthansa, 2247, 612).
+flight(london, moscow, 15, 22, tuesday, finnair, 2871, 124).
+flight(madrid, washington, 12, 1, friday, luxair, 1707, 35).
+flight(moscow, istanbul, 11, 15, sunday, lufthansa, 2755, 704).
+flight(munich, barcelona, 20, 23, friday, lufthansa, 2897, 1900).
+flight(munich, istanbul, 3, 19, friday, continental, 2870, 739).
+flight(munich, barcelona, 0, 21, saturday, emirates, 2954, 1828).
+flight(amsterdam, chicago, 18, 23, sunday, taca, 1407, 990).
+flight(tokyo, berlin, 1, 22, saturday, continental, 171, 715).
+flight(tegucigalpa, washington, 15, 12, tuesday, luxair, 1257, 1772).
+flight(washington, amsterdam, 2, 1, wednesday, continental, 442, 795).
+flight(warsaw, tegucigalpa, 18, 14, friday, delta, 939, 1096).
+flight(munich, istanbul, 17, 9, friday, finnair, 1579, 1959).
+flight(chicago, paris, 18, 16, wednesday, emirates, 748, 978).
+flight(roatan, warsaw, 3, 5, sunday, continental, 1043, 1288).
+flight(amsterdam, havanna, 23, 3, wednesday, finnair, 547, 378).
+flight(berlin, havanna, 19, 14, thursday, avianca, 498, 142).
+flight(washington, amsterdam, 7, 23, sunday, luxair, 1000, 1821).
+flight(beijing, roatan, 1, 18, sunday, united, 2921, 65).
+flight(washington, berlin, 5, 19, wednesday, avianca, 2273, 875).
+flight(barcelona, berlin, 15, 9, saturday, united, 1917, 1110).
+flight(moscow, barcelona, 23, 7, saturday, delta, 2976, 1191).
+flight(munich, warsaw, 23, 1, friday, finnair, 1233, 1214).
+flight(chicago, london, 17, 2, saturday, spirit, 1621, 971).
+flight(istanbul, madrid, 2, 6, friday, luxair, 2251, 1235).
+flight(warsaw, madrid, 0, 3, wednesday, luxair, 2896, 1488).
+flight(rome, havanna, 20, 10, wednesday, finnair, 989, 548).
+flight(rome, houston, 21, 6, saturday, avianca, 771, 241).
+flight(beijing, havanna, 18, 16, thursday, delta, 1292, 1762).
+flight(madrid, tokyo, 17, 23, monday, luxair, 213, 1964).
+flight(toronto, chicago, 10, 15, saturday, united, 815, 644).
+flight(moscow, madrid, 22, 1, monday, avianca, 268, 940).
+flight(washington, berlin, 14, 4, wednesday, lufthansa, 2922, 1404).
+flight(tegucigalpa, amsterdam, 22, 0, tuesday, taca, 471, 292).
+flight(chicago, munich, 6, 8, thursday, lufthansa, 2536, 196).
+flight(paris, munich, 13, 14, monday, avianca, 376, 919).
+flight(madrid, tegucigalpa, 2, 23, wednesday, finnair, 2082, 1926).
+flight(houston, munich, 8, 22, friday, emirates, 121, 1124).
+flight(amsterdam, havanna, 12, 16, thursday, lufthansa, 1753, 850).
+flight(roatan, warsaw, 3, 0, friday, avianca, 579, 955).
+flight(paris, warsaw, 4, 14, tuesday, continental, 289, 286).
+flight(tegucigalpa, berlin, 16, 5, monday, taca, 2594, 461).
+flight(istanbul, barcelona, 22, 4, wednesday, avianca, 811, 1638).
+flight(warsaw, undefined, 5, 7, sunday, emirates, 515, 1754).
+flight(roatan, warsaw, 2, 21, thursday, emirates, 2311, 1167).
+flight(beijing, havanna, 11, 17, wednesday, lufthansa, 2290, 1152).
+flight(moscow, undefined, 18, 8, thursday, delta, 1258, 1277).
+flight(moscow, undefined, 8, 22, friday, spirit, 2733, 1158).
+flight(paris, istanbul, 9, 15, saturday, spirit, 2623, 212).
+flight(berlin, rome, 9, 3, tuesday, delta, 1355, 820).
+flight(madrid, tegucigalpa, 21, 7, saturday, finnair, 2861, 376).
+flight(warsaw, madrid, 7, 4, thursday, continental, 2601, 1921).
+flight(rome, roatan, 3, 7, sunday, delta, 1385, 639).
+flight(istanbul, tegucigalpa, 18, 8, saturday, emirates, 62, 847).
+flight(london, paris, 12, 10, tuesday, finnair, 1209, 1225).
+flight(roatan, london, 18, 20, tuesday, finnair, 1142, 60).
+flight(paris, moscow, 15, 0, saturday, emirates, 1690, 1336).
+flight(chicago, london, 14, 12, thursday, taca, 938, 1958).
+flight(moscow, madrid, 23, 21, sunday, finnair, 714, 813).
+flight(paris, warsaw, 8, 16, thursday, delta, 2207, 1506).
+flight(moscow, barcelona, 15, 14, thursday, emirates, 1901, 1828).
+flight(chicago, paris, 9, 7, wednesday, luxair, 1956, 1279).
+flight(beijing, roatan, 18, 23, sunday, finnair, 1548, 1461).
+flight(beijing, rome, 0, 3, saturday, continental, 1098, 216).
+flight(istanbul, tokyo, 1, 14, monday, finnair, 859, 1663).
+flight(tegucigalpa, washington, 7, 4, monday, taca, 2598, 1977).
+flight(washington, rome, 10, 5, sunday, delta, 2562, 1672).
+flight(tokyo, toronto, 20, 4, saturday, taca, 1907, 70).
+flight(london, paris, 2, 11, wednesday, united, 1195, 1920).
+flight(barcelona, washington, 9, 7, monday, avianca, 758, 1465).
+flight(moscow, barcelona, 3, 9, monday, delta, 1279, 955).
+flight(rome, havanna, 19, 6, friday, taca, 2241, 727).
+flight(madrid, washington, 5, 20, friday, luxair, 2238, 718).
+flight(warsaw, undefined, 8, 3, saturday, finnair, 781, 1469).
+flight(chicago, munich, 1, 0, monday, finnair, 1203, 1083).
+flight(warsaw, tegucigalpa, 20, 2, friday, united, 1073, 150).
+flight(houston, roatan, 11, 15, tuesday, luxair, 2502, 194).
+flight(madrid, barcelona, 8, 10, tuesday, delta, 2326, 1563).
+flight(houston, munich, 5, 21, thursday, emirates, 419, 1962).
+flight(munich, madrid, 15, 7, friday, avianca, 849, 1452).
+flight(roatan, london, 19, 5, sunday, luxair, 457, 805).
+flight(warsaw, barcelona, 2, 0, saturday, lufthansa, 1204, 1849).
+flight(chicago, houston, 17, 19, monday, luxair, 152, 1201).
+flight(washington, rome, 1, 8, saturday, avianca, 228, 715).
+flight(barcelona, tokyo, 11, 16, monday, delta, 1628, 1043).
+flight(london, paris, 3, 18, friday, finnair, 1502, 977).
+flight(washington, amsterdam, 16, 15, tuesday, luxair, 797, 331).
+flight(washington, toronto, 16, 10, wednesday, taca, 2611, 75).
+flight(tokyo, toronto, 9, 5, saturday, continental, 2031, 271).
+flight(london, moscow, 16, 7, saturday, continental, 2750, 998).
+flight(amsterdam, chicago, 8, 5, wednesday, lufthansa, 2732, 1170).
+flight(amsterdam, chicago, 16, 4, friday, finnair, 377, 48).
+flight(tokyo, toronto, 8, 14, thursday, delta, 1872, 952).
+flight(paris, moscow, 20, 18, friday, united, 2257, 1325).
+flight(paris, moscow, 1, 10, monday, continental, 2299, 312).
+flight(paris, moscow, 12, 23, sunday, emirates, 410, 292).
+flight(warsaw, istanbul, 18, 2, tuesday, emirates, 2176, 420).
+flight(london, istanbul, 15, 17, saturday, lufthansa, 780, 302).
+flight(washington, rome, 7, 18, wednesday, luxair, 2281, 472).
+flight(barcelona, berlin, 4, 16, monday, emirates, 1104, 1390).
+flight(washington, toronto, 23, 0, friday, avianca, 2859, 1303).
+flight(tokyo, amsterdam, 20, 5, thursday, lufthansa, 2526, 961).
+flight(roatan, london, 3, 18, tuesday, luxair, 114, 876).
+flight(washington, beijing, 20, 17, friday, emirates, 1190, 616).
+flight(moscow, madrid, 17, 15, thursday, spirit, 77, 1080).
+flight(tokyo, beijing, 5, 6, friday, avianca, 73, 1408).
+flight(london, warsaw, 0, 17, monday, united, 2491, 1382).
+flight(havanna, roatan, 19, 9, saturday, emirates, 468, 277).
+flight(madrid, tegucigalpa, 20, 12, sunday, taca, 1644, 441).
+flight(madrid, washington, 11, 5, thursday, taca, 1108, 16).
+flight(tegucigalpa, amsterdam, 7, 15, sunday, continental, 1940, 13).
+flight(paris, istanbul, 11, 18, tuesday, taca, 2746, 1451).
+flight(washington, berlin, 2, 10, friday, united, 116, 555).
+flight(tegucigalpa, berlin, 9, 10, thursday, lufthansa, 1925, 1513).
+flight(houston, roatan, 12, 15, tuesday, delta, 1524, 25).
+flight(roatan, paris, 8, 1, friday, taca, 1175, 1697).
+flight(madrid, tokyo, 11, 9, monday, avianca, 1369, 593).
+flight(london, munich, 14, 17, wednesday, finnair, 209, 117).
+flight(chicago, roatan, 13, 1, wednesday, united, 415, 190).
+flight(london, istanbul, 14, 19, monday, luxair, 788, 558).
+flight(havanna, chicago, 21, 12, friday, finnair, 2244, 1355).
+flight(havanna, houston, 10, 12, thursday, spirit, 1244, 433).
+flight(warsaw, barcelona, 7, 17, sunday, lufthansa, 662, 575).
+flight(tegucigalpa, washington, 15, 0, wednesday, lufthansa, 1647, 1726).
+flight(madrid, barcelona, 10, 8, wednesday, avianca, 1428, 909).
+flight(roatan, paris, 12, 19, friday, continental, 2612, 15).
+flight(havanna, houston, 8, 11, friday, lufthansa, 2500, 901).
+flight(madrid, barcelona, 17, 22, friday, continental, 1977, 187).
+flight(madrid, barcelona, 4, 3, sunday, avianca, 2747, 1510).
+flight(toronto, chicago, 21, 8, saturday, united, 214, 916).
+flight(madrid, barcelona, 13, 23, saturday, finnair, 2404, 1878).
+flight(istanbul, barcelona, 6, 3, thursday, continental, 1258, 1490).
+flight(chicago, paris, 20, 17, monday, lufthansa, 378, 85).
+flight(beijing, rome, 6, 1, wednesday, spirit, 2880, 1844).
+flight(moscow, barcelona, 16, 23, monday, continental, 1557, 43).
+flight(havanna, london, 3, 14, wednesday, avianca, 1187, 1508).
+flight(chicago, roatan, 14, 11, thursday, delta, 1838, 1085).
+flight(roatan, moscow, 15, 17, friday, emirates, 369, 25).
+flight(tegucigalpa, tokyo, 13, 7, tuesday, united, 1896, 1005).
+flight(tegucigalpa, amsterdam, 5, 23, wednesday, lufthansa, 906, 777).
+flight(washington, beijing, 15, 14, friday, luxair, 2473, 971).
+flight(warsaw, istanbul, 10, 14, thursday, finnair, 476, 1693).
+flight(havanna, roatan, 18, 21, thursday, emirates, 2552, 1039).
+flight(moscow, undefined, 17, 19, friday, taca, 1616, 1036).
+flight(havanna, roatan, 4, 0, tuesday, taca, 2192, 1307).
+flight(tokyo, toronto, 12, 10, sunday, spirit, 1884, 1930).
+flight(munich, barcelona, 23, 5, friday, united, 782, 757).
+flight(london, paris, 11, 3, tuesday, avianca, 443, 1273).
+flight(madrid, washington, 9, 16, thursday, spirit, 263, 607).
+flight(beijing, rome, 20, 15, friday, continental, 656, 1238).
+flight(moscow, undefined, 13, 3, wednesday, delta, 2800, 1794).
+flight(munich, warsaw, 17, 23, tuesday, united, 2098, 1397).
+flight(istanbul, undefined, 18, 8, wednesday, united, 2151, 1214).
+flight(istanbul, barcelona, 13, 16, tuesday, delta, 2344, 118).
+flight(barcelona, tegucigalpa, 8, 10, wednesday, spirit, 2954, 337).
+flight(toronto, beijing, 1, 3, saturday, spirit, 2683, 1526).
+flight(london, munich, 3, 4, saturday, lufthansa, 27, 777).
+flight(berlin, havanna, 22, 1, saturday, delta, 2538, 1915).
+flight(houston, london, 13, 23, wednesday, united, 787, 1217).
+flight(beijing, havanna, 7, 21, tuesday, emirates, 2075, 1244).
+flight(amsterdam, beijing, 6, 13, tuesday, delta, 1602, 758).
+flight(moscow, istanbul, 12, 1, wednesday, lufthansa, 720, 1367).
+flight(amsterdam, havanna, 13, 1, monday, continental, 1593, 1046).
+flight(chicago, houston, 3, 18, saturday, taca, 1115, 682).
+flight(warsaw, barcelona, 2, 23, wednesday, spirit, 497, 1446).
+flight(havanna, london, 0, 20, saturday, delta, 1350, 1959).
+flight(toronto, amsterdam, 19, 11, saturday, continental, 537, 540).
+flight(paris, istanbul, 20, 22, tuesday, spirit, 1132, 1391).
+flight(chicago, paris, 6, 5, sunday, lufthansa, 2925, 213).
+flight(warsaw, madrid, 11, 3, friday, united, 340, 547).
+flight(madrid, barcelona, 17, 4, sunday, continental, 1929, 1927).
+flight(munich, moscow, 21, 14, tuesday, finnair, 588, 837).
+flight(istanbul, tegucigalpa, 15, 3, wednesday, spirit, 225, 1102).
+flight(barcelona, tegucigalpa, 4, 7, thursday, luxair, 1882, 831).
+flight(houston, munich, 19, 7, saturday, united, 2578, 1942).
+flight(houston, london, 20, 17, thursday, emirates, 326, 197).
+flight(washington, rome, 21, 7, thursday, united, 2226, 587).
+flight(rome, roatan, 20, 1, wednesday, spirit, 359, 1385).
+flight(rome, london, 20, 18, wednesday, luxair, 1641, 350).
+flight(tokyo, beijing, 4, 8, thursday, lufthansa, 1252, 1911).
+flight(istanbul, tegucigalpa, 8, 14, friday, finnair, 1085, 661).
+flight(berlin, havanna, 17, 20, tuesday, taca, 1257, 1592).
+flight(beijing, rome, 17, 10, saturday, taca, 1800, 85).
+flight(chicago, roatan, 9, 16, sunday, taca, 28, 826).
+flight(moscow, warsaw, 10, 15, saturday, finnair, 232, 1908).
+flight(moscow, istanbul, 10, 7, sunday, luxair, 2388, 1357).
+flight(washington, rome, 13, 0, saturday, finnair, 2444, 1638).
+flight(washington, berlin, 8, 16, wednesday, united, 2256, 1015).
+flight(beijing, rome, 12, 20, thursday, taca, 200, 46).
+flight(tokyo, berlin, 22, 18, friday, continental, 26, 10).
+flight(beijing, chicago, 13, 19, tuesday, united, 821, 418).
+flight(madrid, barcelona, 19, 6, thursday, taca, 282, 1988).
+flight(beijing, roatan, 1, 10, sunday, taca, 2520, 363).
+flight(tegucigalpa, berlin, 17, 8, monday, taca, 1701, 668).
+flight(munich, istanbul, 10, 13, thursday, avianca, 2091, 78).
+flight(madrid, barcelona, 13, 3, friday, emirates, 1623, 1734).
+flight(madrid, barcelona, 6, 20, wednesday, delta, 1814, 766).
+flight(madrid, tegucigalpa, 22, 18, saturday, continental, 2039, 728).
+flight(london, istanbul, 5, 9, friday, lufthansa, 886, 788).
+flight(chicago, munich, 18, 8, friday, avianca, 2128, 1645).
+flight(tokyo, washington, 23, 17, sunday, avianca, 2304, 216).
+flight(munich, barcelona, 6, 22, saturday, continental, 1525, 1645).
+flight(warsaw, istanbul, 13, 17, friday, lufthansa, 1259, 912).
+flight(tokyo, washington, 2, 8, saturday, spirit, 1256, 803).
+flight(roatan, moscow, 5, 20, friday, luxair, 2223, 681).
+flight(washington, berlin, 16, 21, thursday, spirit, 2610, 1345).
+flight(berlin, beijing, 4, 3, monday, united, 2765, 1081).
+flight(houston, roatan, 13, 6, sunday, avianca, 623, 59).
+flight(moscow, madrid, 15, 17, friday, continental, 2125, 188).
+flight(houston, london, 20, 15, friday, emirates, 1155, 1821).
+flight(chicago, roatan, 7, 19, sunday, luxair, 284, 818).
+flight(toronto, rome, 22, 11, saturday, finnair, 1460, 1901).
+flight(washington, rome, 1, 10, tuesday, delta, 1926, 1377).
+flight(moscow, warsaw, 11, 2, tuesday, continental, 1633, 984).
+flight(tegucigalpa, washington, 21, 23, sunday, spirit, 1805, 296).
+flight(berlin, rome, 17, 23, saturday, delta, 765, 1840).
+flight(berlin, amsterdam, 14, 6, wednesday, taca, 2957, 110).
+flight(chicago, paris, 19, 14, monday, emirates, 2096, 567).
+flight(rome, london, 23, 20, saturday, delta, 2548, 1972).
+flight(toronto, havanna, 6, 11, wednesday, continental, 1024, 714).
+flight(istanbul, madrid, 21, 8, saturday, emirates, 2506, 768).
+flight(chicago, london, 23, 7, friday, spirit, 2492, 1992).
+flight(roatan, warsaw, 15, 12, friday, finnair, 1176, 1867).
+flight(washington, amsterdam, 6, 5, tuesday, luxair, 2420, 418).
+flight(washington, toronto, 1, 14, tuesday, continental, 2643, 205).
+flight(paris, istanbul, 9, 22, friday, emirates, 504, 1019).
+flight(istanbul, barcelona, 14, 11, thursday, taca, 336, 207).
+flight(washington, rome, 20, 0, saturday, luxair, 691, 71).
+flight(amsterdam, havanna, 20, 22, monday, spirit, 1034, 1605).
+flight(istanbul, barcelona, 7, 15, tuesday, delta, 1014, 1574).
+flight(paris, madrid, 1, 7, sunday, united, 634, 858).
+flight(warsaw, tegucigalpa, 19, 23, wednesday, continental, 1305, 1866).
+flight(rome, chicago, 12, 10, friday, finnair, 2906, 558).
+flight(warsaw, madrid, 11, 10, tuesday, lufthansa, 2505, 265).
+flight(chicago, roatan, 16, 14, sunday, avianca, 1555, 253).
+flight(paris, istanbul, 4, 3, wednesday, delta, 805, 1042).
+flight(paris, istanbul, 19, 2, wednesday, finnair, 2818, 1188).
+flight(munich, barcelona, 2, 19, sunday, luxair, 27, 350).
+flight(havanna, chicago, 3, 5, sunday, united, 130, 572).
+flight(havanna, paris, 11, 22, sunday, continental, 2981, 1882).
+flight(toronto, beijing, 10, 2, tuesday, lufthansa, 2337, 1731).
+flight(havanna, paris, 13, 15, wednesday, continental, 53, 869).
+flight(berlin, beijing, 9, 16, saturday, emirates, 537, 1174).
+flight(paris, munich, 6, 21, friday, lufthansa, 1840, 1365).
+flight(chicago, paris, 11, 13, wednesday, emirates, 1265, 1538).
+flight(washington, beijing, 21, 15, wednesday, emirates, 2400, 712).
+flight(munich, madrid, 20, 3, monday, lufthansa, 848, 1873).
+flight(amsterdam, chicago, 7, 23, thursday, taca, 1669, 607).
+flight(toronto, beijing, 14, 2, tuesday, luxair, 2354, 1296).
+flight(paris, istanbul, 9, 0, tuesday, lufthansa, 2165, 1243).
+flight(madrid, undefined, 20, 12, monday, continental, 1430, 1840).
+flight(houston, munich, 23, 18, friday, continental, 639, 1388).
+flight(warsaw, madrid, 8, 13, thursday, continental, 1217, 1123).
+flight(madrid, barcelona, 0, 6, tuesday, spirit, 2504, 936).
+flight(madrid, tegucigalpa, 16, 19, tuesday, lufthansa, 1034, 1605).
+flight(munich, barcelona, 3, 5, wednesday, continental, 771, 1761).
+flight(warsaw, istanbul, 15, 0, thursday, delta, 460, 1808).
+flight(havanna, houston, 7, 4, tuesday, finnair, 1132, 621).
+flight(tokyo, amsterdam, 16, 12, saturday, avianca, 813, 1079).
+flight(chicago, houston, 4, 2, thursday, lufthansa, 87, 719).
+flight(moscow, barcelona, 6, 5, sunday, taca, 2582, 1034).
+flight(rome, chicago, 4, 11, saturday, delta, 2912, 1787).
+flight(tokyo, berlin, 12, 20, tuesday, delta, 178, 1941).
+flight(rome, havanna, 23, 11, monday, continental, 1643, 393).
+flight(munich, warsaw, 2, 15, monday, avianca, 1864, 1705).
+flight(houston, roatan, 9, 1, saturday, lufthansa, 2262, 1981).
+flight(madrid, barcelona, 20, 16, saturday, luxair, 2416, 1995).
+flight(tokyo, beijing, 15, 16, friday, spirit, 2350, 1308).
+flight(munich, moscow, 22, 13, saturday, united, 2862, 698).
+flight(tegucigalpa, berlin, 11, 22, friday, finnair, 1958, 709).
+flight(beijing, havanna, 19, 21, tuesday, continental, 1500, 611).
+flight(moscow, undefined, 22, 8, wednesday, finnair, 1273, 814).
+flight(chicago, munich, 5, 9, saturday, spirit, 1421, 623).
+flight(amsterdam, beijing, 3, 1, tuesday, delta, 870, 244).
+flight(washington, berlin, 4, 5, sunday, avianca, 2401, 1382).
+flight(tokyo, toronto, 13, 8, sunday, delta, 2241, 1209).
+flight(houston, roatan, 4, 6, saturday, finnair, 502, 1123).
+flight(rome, houston, 17, 1, wednesday, delta, 238, 1811).
+flight(moscow, istanbul, 11, 13, saturday, finnair, 2164, 1372).
+flight(toronto, chicago, 16, 1, tuesday, emirates, 1137, 1478).
+flight(toronto, rome, 15, 11, monday, lufthansa, 2277, 1425).
+flight(munich, warsaw, 9, 8, sunday, delta, 2519, 241).
+flight(tokyo, amsterdam, 11, 20, wednesday, luxair, 1470, 1080).
+flight(berlin, toronto, 7, 9, saturday, continental, 2805, 485).
+flight(warsaw, tegucigalpa, 7, 19, wednesday, spirit, 2033, 1663).
+flight(washington, beijing, 12, 7, sunday, avianca, 2542, 792).
+flight(madrid, tegucigalpa, 3, 23, thursday, spirit, 519, 611).
+flight(amsterdam, houston, 2, 23, saturday, finnair, 1575, 17).
+flight(toronto, rome, 22, 15, tuesday, emirates, 2134, 1876).
+flight(houston, roatan, 8, 20, saturday, luxair, 2249, 185).
+flight(houston, paris, 17, 0, friday, finnair, 2379, 919).
+flight(moscow, warsaw, 15, 22, sunday, emirates, 2114, 485).
+flight(moscow, undefined, 8, 21, monday, emirates, 1922, 1028).
+flight(istanbul, tokyo, 5, 21, friday, finnair, 1044, 373).
+flight(houston, munich, 13, 1, wednesday, continental, 2547, 1155).
+flight(barcelona, washington, 2, 11, thursday, emirates, 1677, 1145).
+flight(barcelona, undefined, 12, 10, saturday, luxair, 2024, 43).
+flight(istanbul, tegucigalpa, 22, 0, tuesday, luxair, 1273, 189).
+flight(warsaw, barcelona, 21, 9, monday, avianca, 2671, 1133).
+flight(munich, moscow, 2, 23, friday, emirates, 2859, 276).
+flight(barcelona, washington, 6, 0, monday, luxair, 782, 1529).
+flight(warsaw, barcelona, 23, 17, sunday, avianca, 2666, 1405).
+flight(washington, amsterdam, 22, 7, thursday, luxair, 949, 1580).
+flight(toronto, chicago, 0, 16, monday, finnair, 2454, 1899).
+flight(tegucigalpa, tokyo, 20, 8, saturday, continental, 2261, 1198).
+flight(berlin, amsterdam, 17, 23, saturday, avianca, 1733, 608).
+flight(berlin, amsterdam, 7, 10, tuesday, taca, 918, 900).
+flight(houston, moscow, 5, 1, tuesday, spirit, 85, 27).
+flight(roatan, warsaw, 23, 11, wednesday, luxair, 2234, 359).
+flight(rome, havanna, 18, 5, friday, united, 1703, 53).
+flight(paris, madrid, 12, 5, tuesday, emirates, 448, 941).
+flight(havanna, london, 15, 10, wednesday, emirates, 796, 810).
+flight(moscow, undefined, 7, 3, wednesday, finnair, 1283, 67).
+flight(tegucigalpa, washington, 10, 20, tuesday, finnair, 1833, 1195).
+flight(barcelona, berlin, 12, 20, monday, lufthansa, 769, 781).
+flight(roatan, munich, 10, 1, wednesday, luxair, 1318, 146).
+flight(roatan, paris, 9, 15, wednesday, luxair, 81, 76).
+flight(paris, munich, 9, 7, tuesday, united, 2712, 1631).
+flight(london, istanbul, 3, 10, thursday, emirates, 293, 306).
+flight(rome, roatan, 6, 7, sunday, continental, 541, 1440).
+flight(munich, madrid, 18, 5, monday, avianca, 2344, 251).
+flight(london, istanbul, 14, 19, friday, lufthansa, 768, 37).
+flight(havanna, roatan, 2, 1, thursday, lufthansa, 1046, 1583).
+flight(madrid, tegucigalpa, 22, 21, thursday, luxair, 1839, 650).
+flight(roatan, warsaw, 8, 14, friday, delta, 2835, 728).
+flight(london, munich, 16, 20, tuesday, luxair, 1040, 728).
+flight(paris, moscow, 12, 7, saturday, lufthansa, 1459, 1371).
+flight(madrid, undefined, 19, 8, wednesday, lufthansa, 2641, 1418).
+flight(istanbul, tegucigalpa, 19, 6, friday, avianca, 710, 1163).
+flight(berlin, rome, 21, 2, monday, luxair, 2246, 1427).
+flight(havanna, houston, 21, 6, wednesday, taca, 2880, 1992).
+flight(beijing, houston, 14, 18, sunday, lufthansa, 1713, 355).
+flight(tokyo, amsterdam, 17, 2, saturday, emirates, 179, 1327).
+flight(toronto, beijing, 21, 7, sunday, united, 1597, 704).
+flight(houston, paris, 3, 21, saturday, avianca, 2701, 980).
+flight(moscow, madrid, 20, 12, thursday, lufthansa, 660, 545).
+flight(berlin, rome, 7, 11, sunday, finnair, 26, 1615).
+flight(barcelona, undefined, 9, 22, monday, avianca, 738, 1534).
+flight(paris, warsaw, 23, 20, thursday, taca, 477, 800).
+flight(tegucigalpa, toronto, 5, 1, thursday, emirates, 2553, 1534).
+flight(washington, berlin, 7, 19, monday, emirates, 2878, 575).
+flight(warsaw, undefined, 8, 23, sunday, avianca, 1486, 1953).
+flight(washington, toronto, 0, 1, sunday, united, 2527, 1699).
+flight(roatan, munich, 9, 23, wednesday, avianca, 1775, 744).
+flight(chicago, houston, 5, 12, thursday, lufthansa, 1898, 949).
+flight(berlin, rome, 14, 2, sunday, spirit, 361, 1182).
+flight(washington, beijing, 7, 11, saturday, luxair, 2927, 1540).
+flight(beijing, houston, 22, 13, tuesday, delta, 679, 183).
+flight(toronto, beijing, 14, 8, friday, avianca, 2548, 757).
+flight(barcelona, tokyo, 17, 19, tuesday, united, 1970, 1372).
+flight(amsterdam, beijing, 9, 19, thursday, finnair, 2429, 1710).
+flight(barcelona, washington, 7, 15, wednesday, spirit, 1128, 901).
+flight(chicago, roatan, 13, 17, friday, emirates, 2122, 1829).
+flight(tokyo, beijing, 9, 4, saturday, spirit, 1697, 1032).
+flight(beijing, houston, 9, 3, monday, lufthansa, 197, 152).
+flight(washington, rome, 3, 12, tuesday, avianca, 1211, 936).
+flight(tegucigalpa, washington, 8, 14, tuesday, emirates, 1289, 1716).
+flight(barcelona, berlin, 16, 19, saturday, luxair, 2975, 800).
+flight(roatan, warsaw, 23, 8, saturday, continental, 525, 1991).
+flight(paris, moscow, 4, 15, tuesday, lufthansa, 1574, 1241).
+flight(moscow, istanbul, 23, 6, monday, lufthansa, 2706, 268).
+flight(tegucigalpa, toronto, 23, 18, thursday, lufthansa, 2791, 264).
+flight(washington, toronto, 12, 19, thursday, spirit, 1213, 1259).
+flight(istanbul, barcelona, 12, 3, tuesday, delta, 1496, 174).
+flight(warsaw, madrid, 0, 12, tuesday, taca, 2092, 1175).
+flight(roatan, london, 5, 1, saturday, continental, 2719, 870).
+flight(houston, roatan, 15, 1, thursday, finnair, 2648, 1634).
+flight(munich, madrid, 6, 20, wednesday, taca, 969, 21).
+flight(istanbul, tokyo, 7, 15, saturday, finnair, 2776, 1344).
+flight(berlin, amsterdam, 10, 21, monday, delta, 1795, 1637).
+flight(washington, rome, 10, 16, tuesday, united, 1511, 1550).
+flight(paris, madrid, 14, 23, tuesday, delta, 1160, 1341).
+flight(moscow, undefined, 17, 4, wednesday, delta, 1655, 1856).
+flight(houston, paris, 22, 5, saturday, spirit, 1756, 1028).
+flight(beijing, havanna, 8, 14, monday, avianca, 1017, 41).
+flight(madrid, barcelona, 14, 21, tuesday, spirit, 130, 1145).
+flight(beijing, havanna, 9, 0, tuesday, finnair, 713, 997).
+flight(moscow, warsaw, 12, 21, sunday, finnair, 1547, 1985).
+flight(chicago, munich, 22, 13, tuesday, luxair, 2884, 584).
+flight(istanbul, tegucigalpa, 10, 21, saturday, emirates, 2864, 1820).
+flight(washington, beijing, 14, 6, saturday, luxair, 2569, 365).
+flight(toronto, amsterdam, 2, 18, saturday, luxair, 2365, 1026).
+flight(berlin, toronto, 19, 6, wednesday, avianca, 1025, 1403).
+flight(moscow, undefined, 16, 12, wednesday, lufthansa, 664, 380).
+flight(rome, houston, 9, 20, saturday, luxair, 477, 330).
+flight(paris, moscow, 8, 10, wednesday, spirit, 2968, 405).
+flight(london, moscow, 14, 8, thursday, continental, 1598, 1940).
+flight(tokyo, beijing, 15, 2, tuesday, emirates, 551, 195).
+flight(munich, istanbul, 5, 20, sunday, lufthansa, 509, 366).
+flight(beijing, roatan, 6, 15, friday, emirates, 535, 236).
+flight(barcelona, tegucigalpa, 22, 3, friday, spirit, 2735, 371).
+flight(washington, rome, 13, 15, monday, lufthansa, 1320, 1085).
+flight(london, paris, 10, 18, monday, lufthansa, 2918, 1309).
+flight(madrid, undefined, 0, 22, wednesday, lufthansa, 2038, 297).
+flight(roatan, london, 10, 5, tuesday, luxair, 19, 529).
+flight(barcelona, washington, 9, 7, tuesday, taca, 883, 190).
+flight(london, istanbul, 4, 13, wednesday, spirit, 2808, 1433).
+flight(madrid, undefined, 7, 15, monday, spirit, 2505, 262).
+flight(moscow, barcelona, 10, 2, monday, taca, 2895, 265).
+flight(tokyo, berlin, 16, 21, saturday, continental, 532, 1215).
+flight(madrid, tokyo, 22, 17, friday, finnair, 913, 1095).
+flight(houston, roatan, 18, 21, wednesday, avianca, 2961, 1181).
+flight(toronto, chicago, 22, 19, thursday, delta, 1504, 1339).
+flight(amsterdam, chicago, 5, 15, sunday, emirates, 2931, 1608).
+flight(istanbul, undefined, 7, 17, wednesday, finnair, 1752, 1014).
+flight(beijing, rome, 1, 4, wednesday, lufthansa, 1421, 390).
+flight(tokyo, beijing, 21, 8, monday, luxair, 2101, 1802).
+flight(amsterdam, houston, 2, 4, friday, luxair, 1651, 341).
+flight(london, moscow, 1, 14, tuesday, avianca, 2109, 317).
+flight(munich, moscow, 5, 23, saturday, taca, 1419, 560).
+flight(madrid, washington, 7, 22, thursday, emirates, 1051, 209).
+flight(roatan, warsaw, 2, 18, thursday, united, 2223, 1106).
+flight(rome, houston, 3, 6, monday, finnair, 2609, 56).
+flight(berlin, amsterdam, 8, 18, tuesday, luxair, 741, 1609).
+flight(london, munich, 8, 1, thursday, spirit, 2054, 1038).
+flight(barcelona, undefined, 3, 15, thursday, taca, 468, 1966).
+flight(beijing, houston, 20, 3, monday, united, 1857, 865).
+flight(tokyo, toronto, 15, 21, saturday, finnair, 1002, 406).
+flight(toronto, havanna, 7, 9, tuesday, finnair, 865, 984).
+flight(munich, moscow, 13, 2, thursday, delta, 2182, 1188).
+flight(beijing, rome, 7, 23, wednesday, lufthansa, 718, 1935).
+flight(barcelona, berlin, 11, 8, monday, continental, 2387, 1768).
+flight(houston, roatan, 20, 11, tuesday, luxair, 347, 841).
+flight(tegucigalpa, tokyo, 8, 12, thursday, luxair, 1068, 1322).
+flight(beijing, rome, 12, 0, wednesday, lufthansa, 601, 1052).
+flight(beijing, roatan, 3, 13, sunday, delta, 1735, 1426).
+flight(paris, munich, 10, 13, thursday, continental, 232, 1667).
+flight(paris, istanbul, 21, 2, friday, luxair, 334, 1322).
+flight(istanbul, tokyo, 2, 1, monday, continental, 2234, 200).
+flight(tokyo, berlin, 10, 18, sunday, avianca, 321, 72).
+flight(london, munich, 21, 20, wednesday, delta, 801, 1959).
+flight(houston, roatan, 13, 22, monday, taca, 2733, 1961).
+flight(tokyo, amsterdam, 21, 8, sunday, emirates, 697, 1088).
+flight(houston, munich, 2, 13, thursday, emirates, 1859, 1961).
+flight(havanna, roatan, 21, 11, saturday, lufthansa, 1322, 268).
+flight(rome, havanna, 22, 5, tuesday, delta, 2495, 459).
+flight(istanbul, barcelona, 15, 2, friday, spirit, 2540, 1031).
+flight(moscow, warsaw, 12, 17, saturday, emirates, 2861, 1203).
+flight(istanbul, tokyo, 8, 16, monday, continental, 1518, 1618).
+flight(rome, chicago, 19, 7, wednesday, avianca, 1919, 834).
+flight(warsaw, tegucigalpa, 4, 0, thursday, delta, 2726, 1192).
+flight(amsterdam, rome, 7, 18, sunday, finnair, 2087, 112).
+flight(washington, toronto, 13, 6, sunday, spirit, 1951, 1209).
+flight(madrid, washington, 20, 16, wednesday, emirates, 2139, 1516).
+flight(berlin, rome, 9, 12, sunday, taca, 227, 1232).
+flight(warsaw, undefined, 16, 8, wednesday, finnair, 2238, 1293).
+flight(toronto, beijing, 10, 1, monday, luxair, 2498, 1703).
+flight(toronto, chicago, 19, 11, thursday, finnair, 2574, 1928).
+flight(tokyo, amsterdam, 2, 14, thursday, delta, 1152, 753).
+flight(houston, paris, 4, 15, monday, lufthansa, 88, 1786).
+flight(tokyo, berlin, 17, 16, wednesday, taca, 130, 1770).
+flight(toronto, havanna, 16, 7, wednesday, lufthansa, 696, 892).
+flight(toronto, rome, 0, 13, friday, delta, 1869, 717).
+flight(houston, moscow, 12, 3, saturday, avianca, 1173, 1051).
+flight(munich, moscow, 16, 15, tuesday, united, 2288, 99).
+flight(moscow, warsaw, 13, 21, friday, avianca, 1588, 1904).
+flight(barcelona, tokyo, 5, 21, thursday, avianca, 2444, 723).
+flight(washington, beijing, 0, 20, tuesday, emirates, 1305, 444).
+flight(barcelona, washington, 9, 23, saturday, lufthansa, 1804, 393).
+flight(madrid, tegucigalpa, 23, 3, saturday, spirit, 2121, 587).
+flight(munich, madrid, 13, 21, friday, avianca, 251, 608).
+flight(tegucigalpa, amsterdam, 14, 9, tuesday, taca, 2415, 1699).
+flight(warsaw, istanbul, 9, 1, friday, continental, 1771, 1122).
+flight(roatan, london, 8, 13, monday, continental, 2191, 1625).
+flight(warsaw, tegucigalpa, 4, 16, thursday, avianca, 867, 341).
+flight(toronto, beijing, 17, 22, tuesday, luxair, 233, 817).
+flight(havanna, chicago, 5, 1, friday, continental, 2622, 525).
+flight(chicago, roatan, 22, 13, saturday, united, 2853, 559).
+flight(berlin, havanna, 11, 1, wednesday, lufthansa, 2513, 1590).
+flight(paris, moscow, 11, 0, saturday, avianca, 338, 1806).
+flight(toronto, amsterdam, 6, 1, friday, luxair, 1812, 1374).
+flight(havanna, roatan, 10, 13, thursday, finnair, 2826, 149).
+flight(istanbul, madrid, 13, 10, thursday, avianca, 955, 1426).
+flight(munich, moscow, 11, 4, wednesday, spirit, 1762, 1557).
+flight(madrid, tokyo, 13, 14, thursday, united, 662, 78).
+flight(toronto, chicago, 4, 13, wednesday, taca, 2289, 1049).
+flight(warsaw, barcelona, 13, 22, wednesday, avianca, 1631, 1446).
+flight(moscow, barcelona, 12, 17, saturday, luxair, 655, 1258).
+flight(beijing, chicago, 13, 16, friday, finnair, 2543, 878).
+flight(rome, houston, 17, 18, tuesday, avianca, 2683, 1686).
+flight(tokyo, beijing, 13, 0, tuesday, finnair, 715, 190).
+flight(amsterdam, houston, 4, 10, friday, delta, 1771, 1617).
+flight(beijing, houston, 18, 0, tuesday, luxair, 275, 1354).
+flight(havanna, chicago, 13, 1, friday, luxair, 696, 76).
+flight(tegucigalpa, berlin, 13, 8, tuesday, finnair, 1531, 765).
+flight(moscow, istanbul, 20, 17, tuesday, avianca, 2379, 332).
+flight(london, moscow, 0, 14, wednesday, finnair, 306, 308).
+flight(madrid, undefined, 23, 15, thursday, lufthansa, 2908, 1467).
+flight(amsterdam, rome, 0, 13, saturday, emirates, 815, 166).
+flight(istanbul, tokyo, 4, 8, saturday, spirit, 2957, 867).
+flight(madrid, barcelona, 14, 10, friday, avianca, 1432, 831).
+flight(moscow, warsaw, 17, 16, wednesday, lufthansa, 1527, 1397).
+flight(madrid, barcelona, 14, 5, friday, delta, 1454, 1010).
+flight(amsterdam, houston, 7, 6, thursday, spirit, 1731, 1864).
+flight(amsterdam, rome, 22, 5, saturday, avianca, 1681, 1354).
+flight(tokyo, berlin, 17, 18, wednesday, finnair, 2325, 708).
+flight(beijing, chicago, 15, 20, saturday, lufthansa, 275, 230).
+flight(paris, istanbul, 7, 22, sunday, spirit, 539, 1825).
+flight(washington, berlin, 4, 17, sunday, lufthansa, 395, 1703).
+flight(rome, houston, 22, 14, saturday, spirit, 2065, 598).
+flight(warsaw, undefined, 15, 10, saturday, avianca, 1671, 1549).
+flight(roatan, moscow, 6, 8, monday, emirates, 2221, 1855).
+flight(roatan, london, 8, 4, tuesday, united, 229, 1761).
+flight(havanna, roatan, 19, 6, friday, finnair, 446, 1976).
+flight(washington, beijing, 22, 23, thursday, lufthansa, 2598, 1486).
+flight(rome, chicago, 8, 21, saturday, united, 2904, 1624).
+flight(chicago, munich, 7, 8, monday, spirit, 178, 343).
+flight(houston, moscow, 14, 16, wednesday, taca, 1151, 1704).
+flight(berlin, toronto, 23, 15, wednesday, united, 1625, 1906).
+flight(tegucigalpa, tokyo, 6, 11, saturday, taca, 2945, 254).
+flight(roatan, warsaw, 0, 23, monday, finnair, 364, 84).
+flight(munich, moscow, 7, 0, monday, spirit, 1213, 347).
+flight(barcelona, washington, 12, 19, monday, delta, 2056, 684).
+flight(paris, munich, 23, 21, thursday, united, 2879, 28).
+flight(houston, roatan, 13, 12, sunday, emirates, 2759, 34).
+flight(amsterdam, havanna, 5, 4, thursday, lufthansa, 800, 523).
+flight(roatan, london, 12, 18, sunday, continental, 709, 1675).
+flight(moscow, istanbul, 5, 1, wednesday, emirates, 1014, 1374).
+flight(berlin, beijing, 20, 2, friday, emirates, 236, 554).
+flight(istanbul, undefined, 8, 17, saturday, taca, 1987, 220).
+flight(amsterdam, beijing, 3, 12, saturday, taca, 901, 1757).
+flight(tokyo, toronto, 19, 13, sunday, taca, 448, 563).
+flight(chicago, munich, 12, 6, thursday, lufthansa, 1652, 877).
+flight(moscow, istanbul, 19, 7, tuesday, delta, 1532, 212).
+flight(moscow, istanbul, 2, 17, saturday, finnair, 2526, 1576).
+flight(amsterdam, chicago, 7, 13, wednesday, finnair, 983, 1222).
+flight(roatan, paris, 22, 5, wednesday, emirates, 2030, 1510).
+flight(roatan, munich, 17, 6, sunday, continental, 178, 1550).
+flight(madrid, washington, 16, 3, tuesday, spirit, 2799, 1655).
+flight(munich, warsaw, 22, 23, monday, lufthansa, 2673, 591).
+flight(houston, moscow, 18, 16, sunday, lufthansa, 1748, 111).
+flight(moscow, istanbul, 13, 11, friday, united, 879, 182).
+flight(havanna, london, 21, 0, monday, continental, 2659, 1480).
+flight(roatan, munich, 12, 11, friday, spirit, 1951, 1966).
+flight(tegucigalpa, washington, 14, 10, monday, taca, 2707, 1655).
+flight(warsaw, madrid, 12, 23, friday, delta, 244, 286).
+flight(munich, warsaw, 20, 7, wednesday, lufthansa, 985, 789).
+flight(warsaw, barcelona, 2, 19, monday, avianca, 998, 175).
+flight(tokyo, toronto, 2, 20, saturday, lufthansa, 2915, 1775).
+flight(warsaw, barcelona, 12, 16, sunday, emirates, 2897, 162).
+flight(munich, moscow, 14, 22, friday, finnair, 1003, 586).
+flight(moscow, barcelona, 4, 12, tuesday, finnair, 417, 458).
+flight(roatan, moscow, 14, 5, friday, lufthansa, 2542, 1520).
+flight(toronto, amsterdam, 23, 9, wednesday, emirates, 380, 655).
+flight(berlin, beijing, 18, 13, tuesday, emirates, 2344, 629).
+flight(paris, warsaw, 22, 12, friday, lufthansa, 1815, 1098).
+flight(havanna, houston, 7, 4, thursday, delta, 1441, 168).
+flight(havanna, london, 7, 10, wednesday, delta, 1667, 466).
+flight(moscow, madrid, 2, 9, tuesday, luxair, 2077, 1305).
+flight(chicago, munich, 11, 13, friday, taca, 1314, 1383).
+flight(tokyo, berlin, 1, 12, tuesday, lufthansa, 2257, 1556).
+flight(munich, istanbul, 23, 3, tuesday, lufthansa, 2338, 1096).
+flight(moscow, undefined, 9, 10, sunday, avianca, 170, 1392).
+flight(barcelona, berlin, 6, 9, monday, continental, 152, 1793).
+flight(tegucigalpa, amsterdam, 5, 16, monday, luxair, 1804, 1947).
+flight(warsaw, madrid, 19, 6, friday, avianca, 1588, 230).
+flight(toronto, rome, 17, 10, monday, emirates, 1046, 1188).
+flight(houston, moscow, 20, 0, saturday, continental, 2111, 1589).
+flight(berlin, havanna, 3, 11, thursday, lufthansa, 292, 1944).
+flight(london, munich, 12, 8, friday, spirit, 593, 1971).
+flight(istanbul, madrid, 8, 12, tuesday, united, 562, 26).
+flight(istanbul, tegucigalpa, 10, 7, wednesday, lufthansa, 1053, 1190).
+flight(chicago, paris, 0, 5, thursday, continental, 2072, 336).
+flight(rome, havanna, 14, 19, wednesday, continental, 2331, 476).
+flight(rome, houston, 20, 5, tuesday, united, 632, 929).
+flight(tegucigalpa, amsterdam, 18, 6, tuesday, delta, 1673, 1550).
+flight(beijing, roatan, 10, 2, tuesday, continental, 2022, 1362).
+flight(istanbul, undefined, 13, 11, monday, emirates, 2478, 975).
+flight(tegucigalpa, amsterdam, 19, 10, saturday, spirit, 1398, 1871).
+flight(toronto, beijing, 11, 2, monday, emirates, 1547, 933).
+flight(istanbul, tokyo, 20, 18, saturday, lufthansa, 1741, 611).
+flight(rome, chicago, 12, 4, friday, avianca, 292, 1118).
+flight(berlin, rome, 4, 16, thursday, continental, 2740, 1278).
+flight(amsterdam, rome, 8, 21, sunday, lufthansa, 2117, 1050).
+flight(barcelona, tegucigalpa, 9, 1, monday, avianca, 1648, 1256).
+flight(beijing, houston, 16, 5, friday, continental, 1249, 422).
+flight(berlin, rome, 7, 0, monday, avianca, 35, 1436).
+flight(munich, warsaw, 9, 20, thursday, united, 676, 362).
+flight(havanna, paris, 13, 18, sunday, finnair, 1023, 323).
+flight(berlin, toronto, 9, 10, friday, continental, 2909, 1333).
+flight(paris, warsaw, 8, 11, friday, lufthansa, 2881, 1893).
+flight(istanbul, tokyo, 16, 17, wednesday, luxair, 826, 822).
+flight(paris, warsaw, 3, 4, tuesday, finnair, 2608, 1954).
+flight(beijing, rome, 9, 2, wednesday, delta, 950, 620).
+flight(berlin, rome, 10, 4, wednesday, spirit, 2923, 588).
+flight(barcelona, tegucigalpa, 1, 21, wednesday, taca, 519, 1085).
+flight(washington, beijing, 13, 14, saturday, luxair, 2791, 115).
+flight(toronto, havanna, 0, 2, sunday, united, 725, 1612).
+flight(washington, rome, 21, 14, tuesday, continental, 593, 1816).
+flight(madrid, barcelona, 9, 21, sunday, finnair, 829, 1535).
+flight(beijing, rome, 4, 11, thursday, spirit, 2846, 1084).
+flight(houston, roatan, 5, 21, wednesday, finnair, 2749, 781).
+flight(london, munich, 19, 16, tuesday, emirates, 463, 405).
+flight(munich, warsaw, 3, 19, sunday, luxair, 2659, 935).
+flight(moscow, madrid, 21, 19, monday, spirit, 2274, 1453).
+flight(rome, havanna, 20, 4, monday, spirit, 751, 1472).
+flight(berlin, havanna, 17, 6, wednesday, luxair, 1627, 1903).
+flight(madrid, tegucigalpa, 14, 7, sunday, luxair, 633, 1550).
+flight(istanbul, undefined, 4, 5, wednesday, avianca, 307, 702).
+flight(berlin, rome, 10, 7, sunday, luxair, 169, 1141).
+flight(havanna, houston, 12, 1, monday, emirates, 1015, 1561).
+flight(toronto, chicago, 17, 7, wednesday, spirit, 1903, 1801).
+flight(amsterdam, chicago, 5, 2, sunday, taca, 2948, 1156).
+flight(london, munich, 11, 2, wednesday, avianca, 1269, 937).
+flight(houston, roatan, 15, 18, wednesday, lufthansa, 273, 754).
+flight(istanbul, tokyo, 1, 3, friday, luxair, 1113, 151).
+flight(toronto, rome, 11, 1, wednesday, finnair, 1431, 576).
+flight(washington, rome, 11, 16, friday, united, 2630, 1215).
+flight(moscow, warsaw, 16, 23, wednesday, emirates, 2004, 50).
+flight(houston, moscow, 3, 17, thursday, luxair, 1880, 373).
+flight(moscow, barcelona, 3, 23, sunday, lufthansa, 2961, 570).
+flight(tokyo, berlin, 19, 4, wednesday, finnair, 2908, 1448).
+flight(munich, istanbul, 3, 9, friday, taca, 856, 1578).
+flight(havanna, london, 7, 3, thursday, delta, 914, 731).
+flight(havanna, roatan, 22, 23, sunday, taca, 1425, 1422).
+flight(amsterdam, rome, 22, 13, saturday, delta, 2211, 1817).
+flight(moscow, istanbul, 14, 3, friday, lufthansa, 1433, 963).
+flight(istanbul, madrid, 23, 17, friday, taca, 1072, 1207).
+flight(london, warsaw, 10, 5, wednesday, avianca, 1436, 1003).
+flight(houston, roatan, 23, 13, friday, spirit, 2782, 1851).
+flight(paris, munich, 8, 5, monday, avianca, 2115, 1808).
+flight(roatan, london, 8, 16, saturday, delta, 429, 321).
+flight(istanbul, undefined, 18, 13, thursday, emirates, 1045, 1965).
+flight(warsaw, madrid, 5, 8, sunday, avianca, 2890, 1514).
+flight(rome, chicago, 13, 16, wednesday, luxair, 1292, 1757).
+flight(roatan, paris, 0, 6, saturday, continental, 2067, 1533).
+flight(toronto, beijing, 13, 6, sunday, lufthansa, 468, 1195).
+flight(tegucigalpa, berlin, 12, 11, sunday, continental, 1601, 47).
+flight(toronto, chicago, 6, 14, friday, taca, 247, 60).
+flight(london, moscow, 18, 4, friday, spirit, 2103, 1835).
+flight(rome, roatan, 19, 11, tuesday, luxair, 1533, 848).
+flight(london, istanbul, 1, 15, wednesday, emirates, 543, 1557).
+flight(washington, amsterdam, 14, 3, sunday, luxair, 2197, 550).
+flight(moscow, barcelona, 3, 18, wednesday, delta, 2578, 1809).
+flight(toronto, beijing, 15, 17, wednesday, delta, 2698, 1230).
+flight(roatan, london, 12, 23, tuesday, spirit, 1682, 25).
+flight(roatan, paris, 7, 0, thursday, finnair, 2584, 669).
+flight(rome, houston, 15, 2, monday, luxair, 1384, 1153).
+flight(chicago, roatan, 7, 23, monday, continental, 2495, 242).
+flight(munich, barcelona, 6, 2, wednesday, lufthansa, 1925, 139).
+flight(houston, munich, 14, 10, tuesday, spirit, 1085, 367).
+flight(berlin, amsterdam, 19, 7, thursday, avianca, 531, 401).
+flight(amsterdam, rome, 6, 19, friday, continental, 2977, 964).
+flight(munich, madrid, 20, 19, tuesday, avianca, 99, 1932).
+flight(beijing, chicago, 19, 1, friday, united, 1612, 908).
+flight(london, paris, 14, 9, monday, delta, 1630, 1069).
+flight(berlin, toronto, 15, 12, friday, continental, 653, 1827).
+flight(toronto, chicago, 20, 13, thursday, luxair, 1757, 1754).
+flight(havanna, chicago, 18, 2, saturday, spirit, 1392, 1643).
+flight(istanbul, madrid, 8, 23, saturday, luxair, 870, 1609).
+flight(warsaw, undefined, 1, 22, sunday, taca, 181, 374).
+flight(beijing, houston, 12, 4, wednesday, lufthansa, 2196, 1592).
+flight(paris, warsaw, 4, 3, wednesday, delta, 1626, 104).
+flight(chicago, munich, 5, 17, saturday, emirates, 138, 1300).
+flight(madrid, tokyo, 4, 18, tuesday, united, 2669, 912).
+flight(warsaw, madrid, 6, 0, thursday, continental, 2502, 483).
+flight(moscow, undefined, 3, 18, wednesday, taca, 898, 331).
+flight(istanbul, barcelona, 14, 22, tuesday, lufthansa, 1167, 652).
+flight(toronto, amsterdam, 15, 22, tuesday, lufthansa, 1325, 923).
+flight(paris, madrid, 15, 17, thursday, finnair, 1991, 1798).
+flight(warsaw, madrid, 8, 16, tuesday, continental, 2372, 1295).
+flight(moscow, warsaw, 2, 9, thursday, lufthansa, 1198, 1181).
+flight(madrid, tegucigalpa, 3, 1, thursday, finnair, 2559, 892).
+flight(barcelona, tegucigalpa, 17, 22, monday, taca, 2233, 498).
+flight(paris, moscow, 19, 17, tuesday, avianca, 2989, 54).
+flight(havanna, chicago, 1, 8, friday, continental, 824, 276).
+flight(paris, istanbul, 22, 19, wednesday, united, 1712, 1024).
+flight(paris, moscow, 21, 5, thursday, taca, 1816, 1176).
+flight(warsaw, istanbul, 11, 20, sunday, avianca, 644, 1670).
+flight(istanbul, tegucigalpa, 4, 0, sunday, emirates, 1643, 1240).
+flight(beijing, rome, 10, 11, monday, spirit, 317, 988).
+flight(warsaw, barcelona, 12, 8, friday, continental, 1803, 1976).
+flight(beijing, havanna, 20, 9, tuesday, delta, 2892, 597).
+flight(roatan, london, 8, 12, saturday, finnair, 240, 1750).
+flight(toronto, amsterdam, 6, 15, sunday, delta, 2901, 496).
+flight(toronto, rome, 14, 21, wednesday, finnair, 2659, 1807).
+flight(beijing, roatan, 18, 20, monday, luxair, 739, 336).
+flight(rome, london, 8, 0, sunday, emirates, 2069, 1334).
+flight(beijing, houston, 21, 13, wednesday, finnair, 1514, 1728).
+flight(warsaw, madrid, 3, 15, sunday, taca, 2402, 1807).
+flight(tokyo, washington, 0, 20, sunday, continental, 168, 785).
+flight(berlin, rome, 3, 13, sunday, united, 1660, 1131).
+flight(berlin, toronto, 23, 10, friday, finnair, 1339, 1453).
+flight(chicago, paris, 1, 15, tuesday, avianca, 1901, 725).
+flight(istanbul, tokyo, 14, 1, sunday, taca, 2598, 380).
+flight(berlin, havanna, 9, 21, friday, united, 2159, 1657).
+flight(chicago, roatan, 21, 2, thursday, delta, 2995, 1116).
+flight(rome, roatan, 10, 7, sunday, spirit, 851, 710).
+flight(roatan, london, 10, 1, thursday, spirit, 2138, 1628).
+flight(munich, warsaw, 5, 4, wednesday, united, 1909, 235).
+flight(munich, barcelona, 10, 9, thursday, delta, 2328, 528).
+flight(tegucigalpa, washington, 4, 17, tuesday, finnair, 244, 519).
