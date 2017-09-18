@@ -25,15 +25,22 @@ let places = [
 ];
 let destinations = [];
 for (let i = 0; i < places.length; i++) {
-  if (i <= 15 ) {
+  if (i < 15 ) {
     destinations.push(
       {
         from: places[i],
-        to: [places[i+1], places[i+2], places[i+3], places[i+4], places[0]]
+        to: [places[i+1], places[i+2], places[i+3], places[i+4], places[i+5]]
       }
     );
   }else {
-    if (i === 16) {
+    if (i === 15) {
+      destinations.push(
+        {
+          from: places[i],
+          to: [places[i+1], places[i+2], places[i+3], places[i+4], places[0]]
+        }
+      );
+    }else if (i === 16) {
       destinations.push(
         {
           from: places[i],
@@ -71,15 +78,15 @@ for (let i = 0; i < places.length; i++) {
     }
   }
 }
-// let counter = 0;
-// destinations.forEach((destination) => {
-//   console.log(counter);
-//   console.log(destination.from);
-//   for (let i = 0; i < destination.to.length; i++) {
-//     counter++;
-//     console.log(destination.to[i]);
-//   }
-// });
+let counter = 0;
+destinations.forEach((destination) => {
+  console.log(counter);
+  console.log(destination.from);
+  for (let i = 0; i < destination.to.length; i++) {
+    counter++;
+    console.log(destination.to[i]);
+  }
+});
 
 let days = [
   'sunday',
