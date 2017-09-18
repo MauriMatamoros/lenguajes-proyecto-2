@@ -148,6 +148,9 @@ stream.once('open', (fd) => {
     randomAirlineNumber = Math.floor(Math.random() * 10);
     randomFlightNumber = Math.floor(Math.random() * 3000);
     price = Math.floor(Math.random() * 2000);
+    while (price === 0) {
+      price = Math.floor(Math.random() * 2000);
+    }
     if (usedFlightNumbers.length === 0) {
       usedFlightNumbers.push(randomFlightNumber);
     }else {
