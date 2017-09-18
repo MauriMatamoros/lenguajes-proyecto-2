@@ -120,6 +120,16 @@ let randomDayNumber;
 let randomAirlineNumber;
 let randomFlightNumber;
 let price;
+let usedFlightNumbers = [];
+
+let differentFlightNumbers = (a, b) => {
+  b.forEach((c) => {
+    while (a === c) {
+      a = Math.floor(Math.random() * 3000);
+    }
+  });
+  return a;
+};
 
 let differentNumber = (x, y, z) => {
   while (x === y) {
@@ -138,6 +148,12 @@ stream.once('open', (fd) => {
     randomAirlineNumber = Math.floor(Math.random() * 10);
     randomFlightNumber = Math.floor(Math.random() * 3000);
     price = Math.floor(Math.random() * 2000);
+    if (usedFlightNumbers.length === 0) {
+      usedFlightNumbers.push(randomFlightNumber);
+    }else {
+      randomFlightNumber = differentFlightNumbers(randomFlightNumber, usedFlightNumbers);
+      usedFlightNumbers.push(randomFlightNumber);
+    }
     if (randomArrivalTime === randomDepartureTime) {
       randomDepartureTime = differentNumber(randomArrivalTime, randomDepartureTime, 24)
     }
