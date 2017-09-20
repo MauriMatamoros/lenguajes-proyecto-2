@@ -57,10 +57,12 @@ listcroutes(From, To, Airline, Routes) :- setof(C-R, croute(From, To, Airline, R
 listdroutes(From, To, Airline, Routes) :- setof(D-C-R, droute(From, To, Airline, R, C, D), Routes).
 
 /*Cheapest Route*/
-cheapestroute(From, To, Airline, Route, Cost) :- setof(C-Airline-R, croute(From, To, Airline, R, C), [Cost-Airline-Route|_]).
+cheapestroute(From, To, Airline, Route, Cost) :-
+    setof(C-Airline-R, croute(From, To, Airline, R, C), [Cost-Airline-Route|_]).
 
 /*Shortest Route*/
-shortestroute(From, To, Airline, Route, Cost, Distance) :- setof(D-C-Airline-R, droute(From, To, Airline, R, C, D), [Distance-Cost-Airline-Route|_]).
+shortestroute(From, To, Airline, Route, Cost, Distance) :-
+    setof(D-C-Airline-R, droute(From, To, Airline, R, C, D), [Distance-Cost-Airline-Route|_]).
 
 /*Extra Stuff*/
 inlist(X,[X|_]).
