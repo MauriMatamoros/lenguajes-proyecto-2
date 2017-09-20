@@ -31,8 +31,10 @@ croute(From, To, Airline, [From | Rest], Visited, Cost) :-
     hasflight(From, Next, Airline, CX), croute(Next, To, Airline, Rest, [From | Visited], CY),
     Cost is CX+CY.
 
-listroutes(From, To, Airline, Routes) :- setof(C-R, route(From, To, Airline, R, C), Routes).
+/*List Routes by Cost*/
+listroutes(From, To, Airline, Routes) :- setof(C-R, croute(From, To, Airline, R, C), Routes).
 
+/*Show Cheapest Route*/
 cheapestroute(From, To, Airline, Route, Cost) :- setof(C-Airline-R, croute(From, To, Airline, R, C), [Cost-Airline-Route|_]).
 
 /*shortestroute(From, To, Flight).*/
