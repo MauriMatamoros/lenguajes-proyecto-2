@@ -31,13 +31,26 @@ croute(From, To, Airline, [From | Rest], Visited, Cost) :-
     hasflight(From, Next, Airline, CX), croute(Next, To, Airline, Rest, [From | Visited], CY),
     Cost is CX+CY.
 
-/*List Routes by Cost*/
-listroutes(From, To, Airline, Routes) :- setof(C-R, croute(From, To, Airline, R, C), Routes).
+/*Route with Airline, Cost & Distance*/
+droute(From, To, Airline, Travel, Cost, Distance) :- droute(From, To, Airline, Travel, [], Cost, Distance).
+droute(From, To, Airline, [From | [To]], _, Cost, 2) :- hasflight(From, To, Airline, Cost).
+droute(From, To, Airline, [From | Rest], Visited, Cost, D) :-
+    len(Visited, X), X<3,
+    not(inlist(To, Visited)), not(inlist(From, Visited)),
+    hasflight(From, Next, Airline, CX), droute(Next, To, Airline, Rest, [From | Visited], CY, DX),
+    Cost is CX+CY, D is DX+1.
 
-/*Show Cheapest Route*/
+/*List Routes by Cost*/
+listcroutes(From, To, Airline, Routes) :- setof(C-R, croute(From, To, Airline, R, C), Routes).
+
+/*List Routes by Distance*/
+listdroutes(From, To, Airline, Routes) :- setof(D-C-R, droute(From, To, Airline, R, C, D), Routes).
+
+/*Cheapest Route*/
 cheapestroute(From, To, Airline, Route, Cost) :- setof(C-Airline-R, croute(From, To, Airline, R, C), [Cost-Airline-Route|_]).
 
-/*shortestroute(From, To, Flight).*/
+/*Shortest Route*/
+shortestroute(From, To, Airline, Route, Cost, Distance) :- setof(D-C-Airline-R, droute(From, To, Airline, R, C, D), [Distance-Cost-Airline-Route|_]).
 
 /*Extra Stuff*/
 inlist(X,[X|_]).
