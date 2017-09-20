@@ -40,6 +40,16 @@ droute(From, To, Airline, [From | Rest], Visited, Cost, D) :-
     hasflight(From, Next, Airline, CX), droute(Next, To, Airline, Rest, [From | Visited], CY, DX),
     Cost is CX+CY, D is DX+1.
 
+/*Route with Airline & Cost, Passing Through Given Locations*/
+/*proute(From, Places, Airline, Travel, Cost) :- proute(From, Places, Airline, Travel, [], Cost).
+proute(From, [To|[]], Airline, [From | [To]], Cost) :- hasflight(From, To, Airline, Cost).*/
+proute(From, [To|[]], Airline, Route, Cost) :- croute(From, To, Airline, Route, Cost).
+proute(From, [Next | Left], Airline, Travel, Cost) :-
+    croute(From, Next, Airline, FRoute, CX),
+    proute(Next, Left, Airline, [_|RRoute], CY),
+    append(FRoute, RRoute, Travel),
+    Cost is CX+CY.
+
 /*List Routes by Cost*/
 listcroutes(From, To, Airline, Routes) :- setof(C-R, croute(From, To, Airline, R, C), Routes).
 
