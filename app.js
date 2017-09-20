@@ -1,5 +1,5 @@
 let fs = require('fs');
-let stream = fs.createWriteStream("knowledgeBase.pl");
+let stream = fs.createWriteStream("examplebase.pl");
 
 let places = [
   'tegucigalpa',
