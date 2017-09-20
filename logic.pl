@@ -4,6 +4,7 @@
 /* Check which locations connect to each other */
 hasflight(X,Y) :- flight(X,Y,_,_,_,_,_,_).
 hasflight(X,Y,A) :- flight(X,Y,_,_,_,A,_,_).
+hasflight(X,Y,A,C) :- flight(X,Y,_,_,_,A,_,C).
 
 /*Basic Route*/
 route(From, To, Travel) :- route(From, To, Travel, []).
@@ -13,18 +14,29 @@ route(From, To, [From | Rest], Visited) :-
     not(inlist(To, Visited)), not(inlist(From, Visited)),
     hasflight(From, Next), route(Next, To, Rest, [From | Visited]).
 
-/*Route, Stay in Particular Airline*/
+/*Route, Stay in Particular Airline*
 route(From, To, Airline, Travel) :- route(From, To, Airline, Travel, []).
 route(From, To, Airline, [From | [To]], _) :- hasflight(From, To, Airline).
 route(From, To, Airline, [From | Rest], Visited) :-
     len(Visited, X), X<3,
     not(inlist(To, Visited)), not(inlist(From, Visited)),
     hasflight(From, Next, Airline), route(Next, To, Airline, Rest, [From | Visited]).
-
-/*TODO
-cheapestTrip(From,To,Flight).
-shortestTrip(From,To,Flight).
 */
+
+/*Route, Cheapest*/
+route(From, To, Airline, Travel, Cost) :- route(From, To, Airline, Travel, [], Cost).
+route(From, To, Airline, [From | [To]], _, Cost) :- hasflight(From, To, Airline, Cost).
+route(From, To, Airline, [From | Rest], Visited, Cost) :-
+    len(Visited, X), X<3,
+    not(inlist(To, Visited)), not(inlist(From, Visited)),
+    hasflight(From, Next, Airline, CX), route(Next, To, Airline, Rest, [From | Visited], CY),
+    Cost is CX+CY.
+
+listroutes(From, To, Airline, Routes) :- setof(C-R, route(From, To, Airline, R, C), Routes).
+
+cheapestroute(From, To, Airline, Route, Cost) :- setof(C-Airline-R, route(From, To, Airline, R, C), [Cost-Airline-Route|_]).
+
+/*shortestroute(From, To, Flight).*/
 
 /*Extra Stuff*/
 inlist(X,[X|_]).
