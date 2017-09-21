@@ -1,0 +1,28 @@
+Rutas dentro de la misma aerolinea:
+Sintaxis:
+    aroute(Origen, Destino, Aerolinea, Ruta).
+Ejemplos:
+    aroute(tegucigalpa, warsaw, taca, Ruta).
+    aroute(berlin, tokyo, Aerolinea, Ruta).
+
+Ruta más barata:
+Sintaxis:
+    cheapestroute(Origen, Destino, Aerolinea, Ruta, Costo).
+Ejemplos:
+    cheapestroute(tegucigalpa, warsaw, taca, Ruta, Costo).
+    cheapestroute(berlin, tokyo, Aerolinea, Ruta, Costo).
+
+Ruta más corta:
+Sintaxis:
+    shortestroute(Origen, Destino, Aerolinea, Ruta, Costo, Distancia).
+Ejemplos:
+    shortestroute(warsaw, tegucigalpa, taca, Ruta, Costo, Distancia).
+    shortestroute(tokyo, chicago, Aerolinea, Ruta, Costo, Distancia).
+
+Rutas con paradas intermedias:
+Sintaxis:
+    proute(Origen, Paradas, Aerolinea, Ruta, Costo).
+    ...Donde Parades es una lista de lugares, terminando con el destino. (E.g.: [lugar1,lugar2,...,Destino])
+Ejemplos:
+    proute(roatan, [warsaw, madrid, rome], avianca, Route, Cost).
+    proute(berlin, [paris, moscow, washington], Airline, Route, Cost).
